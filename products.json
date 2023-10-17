@@ -1,0 +1,5514 @@
+[{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea0"
+  },
+  "productImg": "/images/AC/1.jpeg",
+  "productName": "Midea 1.5 Ton 3 Star Split AC - White, Grey  (18K 3 STAR SANTIS PRO CLS R32 SPLIT AC, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 26990,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea1"
+  },
+  "productImg": "/images/AC/2.jpeg",
+  "productName": "ONIDA 1.5 Ton 5 Star Split Dual Inverter AC - White  (IR185RHO_MPS, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "5 Star BEE Rating 2020 : For energy savings upto 25% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 31990,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea2"
+  },
+  "productImg": "/images/AC/3.jpeg",
+  "productName": "SAMSUNG 1.5 Ton 3 Star Split Inverter AC - White, Blue  (AR18TY3QBBUNNA/AR18TY3QBBUXNA, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 25% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 28990,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea3"
+  },
+  "productImg": "/images/AC/4.jpeg",
+  "productName": "Whirlpool 1 Ton 3 Star Split AC - White, Grey  (1.0T Magicool Elite Pro 3S COPR, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 24490,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea4"
+  },
+  "productImg": "/images/AC/5.jpeg",
+  "productName": "LG Convertible 5-in-1 Cooling 1.5 Ton 3 Star Split Dual Inverter AC - White  (MS-Q18PNXA, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 34990,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea5"
+  },
+  "productImg": "/images/AC/6.jpeg",
+  "productName": "Voltas 2 in 1 Convertible Cooling 1.2 Ton 3 Star Split Inverter AC - White  (153V ADP, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.2 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 28490,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea6"
+  },
+  "productImg": "/images/AC/7.jpeg",
+  "productName": "ONIDA 1.5 Ton 3 Star Split Dual Inverter AC - White  (IR183RHO, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.2 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 28490,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea7"
+  },
+  "productImg": "/images/AC/8.jpeg",
+  "productName": "SAMSUNG 1.5 Ton 5 Star Split Inverter AC - White  (AR18AYNZBBE/AR18AYNZBBENNA /AR18AYNZBBEXNA, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 34990,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea8"
+  },
+  "productImg": "/images/AC/9.jpeg",
+  "productName": "SAMSUNG 1.5 Ton 5 Star Split Inverter AC - White  (AR18AYNZBBE/AR18AYNZBBENNA /AR18AYNZBBEXNA, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 34990,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaea9"
+  },
+  "productImg": "/images/AC/10.jpeg",
+  "productName": "Midea 1 Ton 3 Star Split AC - White  (12K 3 STAR SANTIS PRO CLS R32 SPLIT AC, Copper Condenser)",
+  "productList": [
+    {
+      "productData": "1 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ],
+  "productPrice": 23490,
+  "productCategory": "accards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeaa"
+  },
+  "productImg": "/images/Beauty/Beauty/denver.jpeg",
+  "productName": "DENVER Hamilton Deodorant Spray - For Men  (330 ml, Pack of 2)",
+  "productList": [
+    {
+      "productData": "Quantity: 330 ml"
+    },
+    {
+      "productData": "Fragrance: Deodorant Spray"
+    },
+    {
+      "productData": "For Men"
+    }
+  ],
+  "productPrice": 290,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeab"
+  },
+  "productImg": "/images/Beauty/Beauty/fairhand.jpeg",
+  "productName": "FAIR AND HANDSOME Instant Radiance 100 gm Face Wash  (100 g)",
+  "productList": [
+    {
+      "productData": "For All Skin Types"
+    },
+    {
+      "productData": "Applied For: Radiance & Glow"
+    },
+    {
+      "productData": "For Men"
+    }
+  ],
+  "productPrice": 94,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeac"
+  },
+  "productImg": "/images/Beauty/Beauty/himalayanmen.jpeg",
+  "productName": "Himalaya Men Pimple Clear Neem Face Wash  (50 ml)",
+  "productList": [
+    {
+      "productData": " For Men"
+    },
+    {
+      "productData": "Gel Based"
+    },
+    {
+      "productData": "For All Skin Types"
+    },
+    {
+      "productData": "Applied For: Radiance & Glow, Anti-acne & Pimples"
+    }
+  ],
+  "productPrice": 71,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaead"
+  },
+  "productImg": "/images/Beauty/Beauty/irlovely.jpeg",
+  "productName": "Glow & Lovely Advanced Multi Vitamin  (110 g)",
+  "productList": [
+    {
+      "productData": "All Day Usage Cream For Moisturization & Nourishment"
+    },
+    {
+      "productData": "For Women"
+    },
+    {
+      "productData": "Organic Type: Synthetic"
+    }
+  ],
+  "productPrice": 184,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeae"
+  },
+  "productImg": "/images/Beauty/Beauty/kajal.jpeg",
+  "productName": "MAYBELLINE NEW YORK Colossal Kajal Promo  (Black, 0.7 g)",
+  "productList": [
+    {
+      "productData": "Color: Black"
+    },
+    {
+      "productData": "Pencil Form"
+    }
+  ],
+  "productPrice": 175,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeaf"
+  },
+  "productImg": "/images/Beauty/Beauty/linic.jpeg",
+  "productName": "Clinic Plus Strong & Long Health Shampoo  (175 ml)",
+  "productList": [
+    {
+      "productData": "Nourishment & Moisturization Shampoo"
+    },
+    {
+      "productData": "For Women"
+    },
+    {
+      "productData": "Suitable For: All Hair Types"
+    }
+  ],
+  "productPrice": 92,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb0"
+  },
+  "productImg": "/images/Beauty/Beauty/lotus.jpeg",
+  "productName": "Lotus Professional PROFESSIONAL PHYTO-Rx Whitening & Brightening CREME SPF-25 | PA+++  (50 g)",
+  "productList": [
+    {
+      "productData": "Cream For Skin Brightening"
+    },
+    {
+      "productData": "Organic Type: Natural"
+    },
+    {
+      "productData": "UV Protected"
+    }
+  ],
+  "productPrice": 505,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb1"
+  },
+  "productImg": "/images/Beauty/Beauty/lotusherbal.jpeg",
+  "productName": "LOTUS HERBALS WhiteGlow Skin Whitening & Brightening Gel Creme SPF-25 I PA+++  (60 g)",
+  "productList": [
+    {
+      "productData": "Night Usage Cream For Radiance & Glow, Skin Brightening"
+    },
+    {
+      "productData": "For Women   "
+    },
+    {
+      "productData": "Organic Type: Synthetic"
+    }
+  ],
+  "productPrice": 291,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb2"
+  },
+  "productImg": "/images/Beauty/Beauty/onionoil.jpeg",
+  "productName": "MamaEarth Onion Oil for Hair Regrowth Hair Oil ",
+  "productList": [
+    {
+      "productData": "For Men & Women"
+    },
+    {
+      "productData": "Suitable For All Hair Types"
+    },
+    {
+      "productData": "Applied For Anti-hair Fall, Split-ends, Anti-hair Fall, Anti-dandruff, Healthy Scalp, Hair Growth, Conditioning"
+    },
+    {
+      "productData": "Sulfate Free"
+    }
+  ],
+  "productPrice": 281,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb3"
+  },
+  "productImg": "/images/Beauty/Beauty/treseme.jpeg",
+  "productName": "TRESemme Hair Fall Defense Shampoo  (180 ml) ",
+  "productList": [
+    {
+      "productData": "Damage Repair Shampoo"
+    },
+    {
+      "productData": "Ideal For: Men & Women"
+    },
+    {
+      "productData": "Suitable For: All Hair Types"
+    },
+    {
+      "productData": "Formulated For: Damaged Hair"
+    }
+  ],
+  "productPrice": 120,
+  "productCategory": "beauty"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb4"
+  },
+  "productImg": "/images/Beauty/Fitness/adrenex.jpeg",
+  "productName": "Adrenex by Flipkart AIRBIKE110BST Exercise Bicycle with Moving Handles, Back Support and Twister Dual-Action Stationary Exercise Bike",
+  "productList": [
+    {
+      "productData": "Type: Direct Contact Resistance"
+    },
+    {
+      "productData": "Supported Weight: 100 kg"
+    },
+    {
+      "productData": "Exercise Type: NA"
+    },
+    {
+      "productData": "Resistance Levels: 8"
+    },
+    {
+      "productData": "Design: Dual-Action Stationary"
+    },
+    {
+      "productData": "Features:- Adjustable Seat, Adjustable Resistance Levels"
+    }
+  ],
+  "productPrice": 8074,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb5"
+  },
+  "productImg": "/images/Beauty/Fitness/airbike.jpeg",
+  "productName": "Adrenex by Flipkart AIRBIKE110BST Exercise Bicycle with Moving Handles, Back Support and Twister Dual-Action Stationary Exercise Bike",
+  "productList": [
+    {
+      "productData": "Type: Direct Contact Resistance"
+    },
+    {
+      "productData": "Supported Weight: 100 kg"
+    },
+    {
+      "productData": "Exercise Type: NA"
+    },
+    {
+      "productData": "Resistance Levels: 8"
+    },
+    {
+      "productData": "Design: Dual-Action Stationary"
+    },
+    {
+      "productData": "Features:- Adjustable Seat, Adjustable Resistance Levels"
+    }
+  ],
+  "productPrice": 8074,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb6"
+  },
+  "productImg": "/images/Beauty/Fitness/go20in1.jpeg",
+  "productName": "GoFiTPrO 20 in 1 bench Multipurpose Fitness Bench",
+  "productList": [
+    {
+      "productData": "Type: Multipurpose Fitness Bench"
+    },
+    {
+      "productData": "Positioning Type: INCLINE, DECLINE, FLAT"
+    },
+    {
+      "productData": "Made of MS IRON"
+    },
+    {
+      "productData": "W x H x D: 47 cm x 100 cm x 28 cm"
+    },
+    {
+      "productData": "Holding Capacity: 220 kg"
+    }
+  ],
+  "productPrice": 8729,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb7"
+  },
+  "productImg": "/images/Beauty/Fitness/gofitpro.jpeg",
+  "productName": "GoFiTPrO GoFiTPrO Multipurpose Home Gym 20 in 1 Bench (Powder Coated Silver Colour) Multipurpose Fitness Bench",
+  "productList": [
+    {
+      "productData": "Type: Multipurpose Fitness Bench"
+    },
+    {
+      "productData": "Positioning Type: INCLINE, DECLINE, FLAT Made of MS IRON"
+    },
+    {
+      "productData": "W x H x D: 126 cm x 48 cm x 25 cm"
+    },
+    {
+      "productData": "Holding Capacity: 200 kg"
+    }
+  ],
+  "productPrice": 8923,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb8"
+  },
+  "productImg": "/images/Beauty/Fitness/icycle.jpeg",
+  "productName": "Adrenex by Flipkart AIRBIKE90BS Exercise Bicycle with Fixed Handles and Back Support Upright Stationary Exercise Bike  (Black)",
+  "productList": [
+    {
+      "productData": "Type: Direct Contact Resistance"
+    },
+    {
+      "productData": "Supported Weight: 100 kg"
+    },
+    {
+      "productData": "Exercise Type: NA"
+    },
+    {
+      "productData": "Resistance Levels: 8"
+    },
+    {
+      "productData": "Design: Upright Stationary"
+    },
+    {
+      "productData": "Features:- Adjustable Seat, Adjustable Resistance Levels"
+    }
+  ],
+  "productPrice": 6649,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeb9"
+  },
+  "productImg": "/images/Beauty/Fitness/muskular.jpeg",
+  "productName": "muskular 20 kg Plates with 3 rods with Accessories Home Gym Combo",
+  "productList": [
+    {
+      "productData": "Weight of Plates:20 kg"
+    },
+    {
+      "productData": "ncludes:20 kg of PVC weight (2 kg x 4 = 8kg + 3 kg x 4 = 12 kg),1 x 3 feet curl rod + 2 x 14-inch dumbbell rods,gym gloves + 1 gym backpack + 1 skipping rope + 1 hand gripper + 2 locks and clippers"
+    }
+  ],
+  "productPrice": 1699,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeba"
+  },
+  "productImg": "/images/Beauty/Fitness/obodumbell.jpeg",
+  "productName": "KOBO Dumbbell Bench with Preacher Curl (Imported) Multipurpose Fitness Bench",
+  "productList": [
+    {
+      "productData": "Type: Multipurpose Fitness Bench"
+    },
+    {
+      "productData": "Positioning Type: Flat, Incline, Decline"
+    },
+    {
+      "productData": "W x H x D: 116 cm x 50 cm x 41 cm"
+    },
+    {
+      "productData": "Holding Capacity: 140 kg"
+    }
+  ],
+  "productPrice": 8729,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaebb"
+  },
+  "productImg": "/images/Beauty/Fitness/stunner.jpeg",
+  "productName": "Adrenex by Flipkart 8 in 1 Multipurpose Fitness Bench",
+  "productList": [
+    {
+      "productData": "Type: Multipurpose Fitness Bench"
+    },
+    {
+      "productData": "Positioning Type: Yes"
+    },
+    {
+      "productData": "W x H x D: 50 cm x 52 cm x 25 cm"
+    },
+    {
+      "productData": "Holding Capacity: 120 kg"
+    }
+  ],
+  "productPrice": 3989,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaebc"
+  },
+  "productImg": "/images/Beauty/Fitness/vickytranform.jpeg",
+  "productName": "Vicky Transform 50 kg PVC 50 Kg Curl And Straight Rod Super Deluxe Combo Home Gym Combo",
+  "productList": [
+    {
+      "productData": "Weight of Plates:50 kg"
+    },
+    {
+      "productData": "Includes:1 pair glove, 1 rope, 1 hand grip, 1 straight rod, 1 curl rod, 2 dumbbell rods, 4 plates x 5kg, 3kg, 2kg, 2.5kg, 4 nuts, 2 clips"
+    }
+  ],
+  "productPrice": 2849,
+  "productCategory": "fitness"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaebd"
+  },
+  "productImg": "/images/Beauty/Foods/boost.jpeg",
+  "productName": "Boost Health, Energy & Sports Nutrition Drink  (750 g)",
+  "productList": [
+    {
+      "productData": "Health, Energy & Sports Nutrition Drink"
+    },
+    {
+      "productData": "750g"
+    }
+  ],
+  "productPrice": 326,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaebe"
+  },
+  "productImg": "/images/Beauty/Foods/bournvita.jpeg",
+  "productName": "Cadbury Bournvita Health  (500 g)",
+  "productList": [
+    {
+      "productData": " Cadbury Bournvita"
+    },
+    {
+      "productData": "Health"
+    },
+    {
+      "productData": "500 g"
+    }
+  ],
+  "productPrice": 211,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaebf"
+  },
+  "productImg": "/images/Beauty/Foods/cashew.jpeg",
+  "productName": "WONDERLAND Raw Cashews  (500 g)",
+  "productList": [
+    {
+      "productData": "Raw"
+    },
+    {
+      "productData": "Comes in a Pouch"
+    },
+    {
+      "productData": "Added Preservatives"
+    }
+  ],
+  "productPrice": 500,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec0"
+  },
+  "productImg": "/images/Beauty/Foods/dettol.jpeg",
+  "productName": "DETTOL Multipurpose Disinfectant liquid, Lime Fresh Antiseptic Liquid",
+  "productList": [
+    {
+      "productData": "Disinfectant Liquid"
+    },
+    {
+      "productData": "Multipurpose Disinfectant liquid, Lime Fresh"
+    },
+    {
+      "productData": "1000 ml"
+    }
+  ],
+  "productPrice": 312,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec1"
+  },
+  "productImg": "/images/Beauty/Foods/farmley.jpeg",
+  "productName": "Food",
+  "productList": [
+    {
+      "productData": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB"
+    },
+    {
+      "productData": "16.59 cm (6.53 inch) Full HD+ Display"
+    },
+    {
+      "productData": "48MP + 2MP + 2MP | 8MP Front Camera"
+    },
+    {
+      "productData": "6000 mAh Lithium-ion Polymer Battery"
+    },
+    {
+      "productData": "Qualcomm Snapdragon 662 Processor"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec2"
+  },
+  "productImg": "/images/Beauty/Foods/horlicks.jpeg",
+  "productName": "Farmley Premium California Almonds  (250 g)",
+  "productList": [
+    {
+      "productData": "Raw"
+    },
+    {
+      "productData": "Comes in a Pouch"
+    }
+  ],
+  "productPrice": 259,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec3"
+  },
+  "productImg": "/images/Beauty/Foods/lipton.jpeg",
+  "productName": "Lipton Zest Lemon Green Tea Bags Box  (25 Bags)",
+  "productList": [
+    {
+      "productData": "Tea Bag Form"
+    },
+    {
+      "productData": "Box Container"
+    }
+  ],
+  "productPrice": 136,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec4"
+  },
+  "productImg": "/images/Beauty/Foods/saffola.jpeg",
+  "productName": "Saffola Oats  (1 kg, Pouch)",
+  "productList": [
+    {
+      "productData": "Maximum Shelf Life: 12 Months"
+    },
+    {
+      "productData": "No organic"
+    }
+  ],
+  "productPrice": 189,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec5"
+  },
+  "productImg": "/images/Beauty/Foods/saffolagold.jpeg",
+  "productName": "Saffola Gold Blended Oil Can  (1 L)",
+  "productList": [
+    {
+      "productData": "Used For: Cooking"
+    },
+    {
+      "productData": "Processing Type: Blended"
+    },
+    {
+      "productData": "Maximum Shelf Life: 9 Months"
+    }
+  ],
+  "productPrice": 212,
+  "productCategory": "food"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec6"
+  },
+  "productImg": "/images/Beauty/Toy/atvcycle.jpeg",
+  "productName": "Miss & Chief ATV Style 6V 4.5 AH 20W Premium Sporty Look Battery Powered Ride On with rechargeable batteries,Music&Light Bike Battery Operated Ride On ",
+  "productList": [
+    {
+      "productData": "Maximum User Weight: 20 kg"
+    },
+    {
+      "productData": "Material: Plastic"
+    },
+    {
+      "productData": "Delivery Condition: Non-assembled"
+    },
+    {
+      "productData": " Battery Operated"
+    },
+    {
+      "productData": "Rechargeable"
+    }
+  ],
+  "productPrice": 5499,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec7"
+  },
+  "productImg": "/images/Beauty/Toy/bikebattery.jpeg",
+  "productName": "letzride Bike Battery Operated Ride On ",
+  "productList": [
+    {
+      "productData": "Maximum User Weight: 40 kg"
+    },
+    {
+      "productData": "Material: Plastic"
+    },
+    {
+      "productData": "Delivery Condition: Non-assembled"
+    },
+    {
+      "productData": "Battery Operated"
+    },
+    {
+      "productData": "Rechargeable"
+    }
+  ],
+  "productPrice": 11890,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec8"
+  },
+  "productImg": "/images/Beauty/Toy/dcube.jpeg",
+  "productName": "D ETERNAL Cube 3x3x3 cube high speed stickerless magic cube 3x3 puzzle cube brainteaser toy",
+  "productList": [
+    {
+      "productData": "Material: Plastic"
+    },
+    {
+      "productData": "Age: 3+ Years"
+    },
+    {
+      "productData": "Skillset: Creativity & Imagination, Object Recognition, Hand & Eye Co-ordination, Memory Building, Color & Shape Recognition, Attention Span Building, Problem Solving, Curiosity Building, Analysis & Critical Thinking, Time Management"
+    }
+  ],
+  "productPrice": 197,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaec9"
+  },
+  "productImg": "/images/Beauty/Toy/miniracing.jpeg",
+  "productName": "Miss & Chief Mini Racing 4 Channel RC Car",
+  "productList": [
+    {
+      "productData": "Material: Plastic"
+    },
+    {
+      "productData": "Battery Operated, 3 Battteries"
+    },
+    {
+      "productData": "Rechargeable Batteries"
+    },
+    {
+      "productData": "Width x Height: 8 cm x 5.3 cm"
+    },
+    {
+      "productData": "Age: 6+ Years"
+    }
+  ],
+  "productPrice": 649,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeca"
+  },
+  "productImg": "/images/Beauty/Toy/miss.jpeg",
+  "productName": "Miss & Chief Sound and Light Rideons & Wagons Non Battery Operated Ride On",
+  "productList": [
+    {
+      "productData": "Maximum User Weight: 8 kg"
+    },
+    {
+      "productData": "Material: Plastic, Rubber, Iron"
+    },
+    {
+      "productData": "Delivery Condition: Non-assembled"
+    }
+  ],
+  "productPrice": 1399,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaecb"
+  },
+  "productImg": "/images/Beauty/Toy/moster.jpeg",
+  "productName": "A R ENTERPRISES Off-Road 1:20 Hummer Monster Racing Car (Black) 3.8",
+  "productList": [
+    {
+      "productData": "Material: Plastic"
+    },
+    {
+      "productData": "Battery Operated, 2 Battteries"
+    },
+    {
+      "productData": "Rechargeable Batteries"
+    },
+    {
+      "productData": "Width x Height: 8 inch x 6 inch"
+    },
+    {
+      "productData": "Age: 5+ Years"
+    }
+  ],
+  "productPrice": 1199,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaecc"
+  },
+  "productImg": "/images/Beauty/Toy/ratnas.jpeg",
+  "productName": "Ratnas 4 In 1 Animal World Jigsaw puzzle for kids. 4 puzzles 35 pieces each",
+  "productList": [
+    {
+      "productData": "Material: Cardboard"
+    },
+    {
+      "productData": "Age: 2+ Years"
+    },
+    {
+      "productData": "Skillset: Social Skills, Creativity & Imagination, Object Recognition"
+    }
+  ],
+  "productPrice": 244,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaecd"
+  },
+  "productImg": "/images/Beauty/Toy/sagar.jpeg",
+  "productName": "Sagar Enterprises 36 Tiles Kids Puzzle Mats ABCD (Multicolor) (36 Pieces)  (36 Pieces)",
+  "productList": [
+    {
+      "productData": "Material: Foam"
+    },
+    {
+      "productData": "Age: 2+ Years"
+    },
+    {
+      "productData": "48MP + 2MP + 2MP | 8MP Front Camera"
+    },
+    {
+      "productData": "Skillset: Alphabet & Number Recognition"
+    }
+  ],
+  "productPrice": 220,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaece"
+  },
+  "productImg": "/images/Beauty/Toy/stuntcar.jpeg",
+  "productName": "R S Kukadiya Rechargeable 360 Degree Twisting Stunt Car with Music & Lights for Kids (Colors as Per Stock) (MULTY COLOUR)  (MULTI CAR)",
+  "productList": [
+    {
+      "productData": "Material: Plastic"
+    },
+    {
+      "productData": "Battery Operated, 2 Battteries"
+    },
+    {
+      "productData": "Rechargeable Batteries"
+    },
+    {
+      "productData": "Width x Height: 10 cm x 7 cm"
+    },
+    {
+      "productData": "Age: 3+ Years"
+    }
+  ],
+  "productPrice": 785,
+  "productCategory": "toy"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaecf"
+  },
+  "productImg": "/images/Cameras/canon300.jpeg",
+  "productName": "Canon 3000D (With Basic Accessory Kit) DSLR Camera With 18-55 lens ",
+  "productList": [
+    {
+      "productData": "Self-Timer | Type C and Mini HDMI, |9 Auto Focus Points | 35x Optical Zoom., Effective Pixels: 18 MP APS-C CMOS sensor-which is 25 times larger than a typical Smartphone sensor., WiFi | Full HD | Video Recording at 1080 p on 30fps."
+    },
+    {
+      "productData": "Effective Pixels: 18 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    }
+  ],
+  "productPrice": 29999,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed0"
+  },
+  "productImg": "/images/Cameras/canone.jpeg",
+  "productName": "Canon EOS 77D DSLR Camera Body with Single Lens: EF-S18-135 IS USM",
+  "productList": [
+    {
+      "productData": "Effective Pixels: 24.2 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    },
+    {
+      "productData": "WiFi Available"
+    },
+    {
+      "productData": "1080p at 60p + Time-Lapse"
+    }
+  ],
+  "productPrice": 76999,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed1"
+  },
+  "productImg": "/images/Cameras/canonm6.jpeg",
+  "productName": "Canon M6 Mark II Mirrorless Camera with 15-45 lens",
+  "productList": [
+    {
+      "productData": "Effective Pixels: 32.5 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    },
+    {
+      "productData": "WiFi Available"
+    },
+    {
+      "productData": "4K"
+    }
+  ],
+  "productPrice": 74999,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed2"
+  },
+  "productImg": "/images/Cameras/jvczy.jpeg",
+  "productName": "JVC GY GY-HM150U Compact Handheld 3-CCD Camcorder Camcorder",
+  "productList": [
+    {
+      "productData": "Fujinon 10x Zoom HD"
+    },
+    {
+      "productData": "1080p Digital Process"
+    },
+    {
+      "productData": "Native File Recording"
+    }
+  ],
+  "productPrice": 99000,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed3"
+  },
+  "productImg": "/images/Cameras/nikond56.jpeg",
+  "productName": "NIKON D5600 DSLR Camera Body with Dual Lens: AF-P DX Nikkor 18 - 55 MM F/3.5-5.6G VR and 70-300 MM F/4.5-6.3G ED VR",
+  "productList": [
+    {
+      "productData": "Effective Pixels: 24.2 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    },
+    {
+      "productData": "WiFi Available"
+    },
+    {
+      "productData": "1080p recording upto 60p"
+    }
+  ],
+  "productPrice": 63990,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed4"
+  },
+  "productImg": "/images/Cameras/nikonz50.jpeg",
+  "productName": "NIKON Z 50 Mirrorless Camera Body with 16-50mm & 50-250mm Lenses",
+  "productList": [
+    {
+      "productData": "Effective Pixels: 20.9 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    },
+    {
+      "productData": "WiFi Available"
+    },
+    {
+      "productData": "UHD 4K"
+    }
+  ],
+  "productPrice": 87499,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed5"
+  },
+  "productImg": "/images/Cameras/sonyalpha.jpeg",
+  "productName": "SONY Alpha ILCE-6400L Mirrorless Camera with 16-50mm Power Zoom Lens",
+  "productList": [
+    {
+      "productData": " Effective Pixels: 24.2 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    },
+    {
+      "productData": "WiFi Available"
+    },
+    {
+      "productData": "NTSC/PAL"
+    }
+  ],
+  "productPrice": 79990,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed6"
+  },
+  "productImg": "/images/Cameras/sonyalpha6400.jpeg",
+  "productName": "SONY Alpha ILCE-6400L ",
+  "productList": [
+    {
+      "productData": "Effective Pixels: 24.2 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    },
+    {
+      "productData": "WiFi Available"
+    },
+    {
+      "productData": "4K, FULL HD, HD"
+    }
+  ],
+  "productPrice": 102990,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed7"
+  },
+  "productImg": "/images/Cameras/sonyalpha6400icler.jpeg",
+  "productName": "SONY Alpha ILCE-6400L Mirrorless Camera Vlogger Starter kit ",
+  "productList": [
+    {
+      "productData": "Effective Pixels: 24.2 MP"
+    },
+    {
+      "productData": "Sensor Type: CMOS"
+    },
+    {
+      "productData": "WiFi Available"
+    },
+    {
+      "productData": "NTSC/PAL"
+    }
+  ],
+  "productPrice": 102499,
+  "productCategory": "cameracards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed8"
+  },
+  "productImg": "/images/chimney/1.jpeg",
+  "productName": "Elica Strip CF 60 Nero Wall Mounted Chimney  (Black 880 CMH)",
+  "productList": [
+    {
+      "productData": " 60 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 880 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Cassette Filter : Uses fine Mesh to trap grease, fortnightly cleaning"
+    },
+    {
+      "productData": "Needs regular manual cleaning of the filters"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 5199,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaed9"
+  },
+  "productImg": "/images/chimney/2.jpeg",
+  "productName": "Hindware Ripple 60 Auto Clean Wall Mounted Chimney  (INOX 1200 CMH)",
+  "productList": [
+    {
+      "productData": " 60 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1200 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Filterless : No Filter used, instant auto-clean with heat/water on button press"
+    },
+    {
+      "productData": "Autoclean: Uses water/heat to auto-clean the collection chamber"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 11699,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeda"
+  },
+  "productImg": "/images/chimney/3.jpeg",
+  "productName": "Elica WDFL 606 HAC MS NERO Auto Clean Wall Mounted Chimney  (Black 1200 CMH)",
+  "productList": [
+    {
+      "productData": " 60 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1200 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Filterless : No Filter used, instant auto-clean with heat/water on button press"
+    },
+    {
+      "productData": " Autoclean: Uses water/heat to auto-clean the collection chamber"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 11499,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaedb"
+  },
+  "productImg": "/images/chimney/4.jpeg",
+  "productName": "Glen GL 6052 TC 90 BL Wall Mounted Chimney  (Black, Silver 1250 CMH)",
+  "productList": [
+    {
+      "productData": " 90 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1250 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Baffle Filter : Uses panels to separate grease & spice, half-yearly cleaning"
+    },
+    {
+      "productData": "Needs regular manual cleaning of the filters"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 14990,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaedc"
+  },
+  "productImg": "/images/chimney/5.jpeg",
+  "productName": "Faber Hood Class Plus PB BK LTW 60 Wall Mounted Chimney  (Black 1000 CMH)",
+  "productList": [
+    {
+      "productData": " 60 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1000 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Baffle Filter : Uses panels to separate grease & spice, half-yearly cleaning"
+    },
+    {
+      "productData": "Needs regular manual cleaning of the filters"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 6490,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaedd"
+  },
+  "productImg": "/images/chimney/6.jpeg",
+  "productName": "Eurodomo Hood Indigo SC TC BK 90 Auto Clean Wall Mounted Chimney  (BLACK GLASS + BLACK POWDER COATED 1200 CMH)",
+  "productList": [
+    {
+      "productData": " 90 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1200 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Filterless : No Filter used, instant auto-clean with heat/water on button press"
+    },
+    {
+      "productData": "Needs regular manual cleaning of the filters"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 10790,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaede"
+  },
+  "productImg": "/images/chimney/7.jpeg",
+  "productName": "Hindware Ripple 90 Auto Clean Wall Mounted Chimney  (Inox 1200 CMH)",
+  "productList": [
+    {
+      "productData": " 60 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1200 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Filterless : No Filter used, instant auto-clean with heat/water on button press"
+    },
+    {
+      "productData": "Autoclean: Uses water/heat to auto-clean the collection chamber"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 12990,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaedf"
+  },
+  "productImg": "/images/chimney/8.jpeg",
+  "productName": "Faber Hood Mercury HC TC BK 60 Auto Clean Wall Mounted Chimney  (BK Glass + Black Powder Coating 1200 CMH)",
+  "productList": [
+    {
+      "productData": " 60 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1200 CMH : Suitable for kitchen size 100-200 sqft & medium frying/grilling"
+    },
+    {
+      "productData": "Baffle Filter : Uses panels to separate grease & spice, half-yearly cleaning"
+    },
+    {
+      "productData": "Needs regular manual cleaning of the filters"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 9990,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee0"
+  },
+  "productImg": "/images/chimney/9.jpeg",
+  "productName": "Hindware Clarissa SS 60 Wall Mounted Chimney  (Inox 700 CMH/m3/h)",
+  "productList": [
+    {
+      "productData": "48.1 cm : Suitable for 2-3 burners"
+    },
+    {
+      "productData": " 700 CMH/m3/h : Suitable for kitchen size <100 sqft & low frying/grilling"
+    },
+    {
+      "productData": "Cassette Filter : Uses fine Mesh to trap grease, fortnightly cleaning"
+    },
+    {
+      "productData": "Needs regular manual cleaning of the filters"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 5940,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee1"
+  },
+  "productImg": "/images/chimney/10.jpeg",
+  "productName": "Hindware Kyra 60 Wall Mounted Chimney  (Black 1000 m3/h/ CMH)",
+  "productList": [
+    {
+      "productData": " 60 cm : Suitable for 3-4 Burners"
+    },
+    {
+      "productData": " 1000 m3/h/ CMH"
+    },
+    {
+      "productData": "Cassette Filter : Uses fine Mesh to trap grease, fortnightly cleaning"
+    },
+    {
+      "productData": "Needs regular manual cleaning of the filters"
+    },
+    {
+      "productData": "Very effective in removing odor"
+    }
+  ],
+  "productPrice": 10990,
+  "productCategory": "chimneycards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee2"
+  },
+  "productImg": "/images/Fashion/men/blackredtshirt.jpeg",
+  "productName": "Solid Men Hooded Neck Black, Red T-Shirt",
+  "productList": [],
+  "productPrice": 319,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee3"
+  },
+  "productImg": "/images/Fashion/men/blacktshirt.jpeg",
+  "productName": "Color Block Men Hooded Neck Multicolor T-Shirt",
+  "productList": [],
+  "productPrice": 399,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee4"
+  },
+  "productImg": "/images/Fashion/men/blockmenround.jpeg",
+  "productName": "color block men round neck",
+  "productList": [],
+  "productPrice": 284,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee5"
+  },
+  "productImg": "/images/Fashion/men/blockmenround1.jpeg",
+  "productName": "Color Block Men Round Neck Black, White T-Shirt",
+  "productList": [],
+  "productPrice": 445,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee6"
+  },
+  "productImg": "/images/Fashion/men/menhooked.jpeg",
+  "productName": "Printed Men Hooded Neck White, Red T-Shirt",
+  "productList": [],
+  "productPrice": 379,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee7"
+  },
+  "productImg": "/images/Fashion/men/mentop.jpeg",
+  "productName": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "productList": [],
+  "productPrice": 590,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee8"
+  },
+  "productImg": "/images/Fashion/men/multicolor.jpeg",
+  "productName": "Color Block Men Hooded Neck Multicolor T-Shirt",
+  "productList": [],
+  "productPrice": 399,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaee9"
+  },
+  "productImg": "/images/Fashion/men/neckblacktshirt.jpeg",
+  "productName": "Color Block Men Round Neck Black T-Shirt",
+  "productList": [],
+  "productPrice": 399,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeea"
+  },
+  "productImg": "/images/Fashion/men/neckblacktshirt.jpeg",
+  "productName": "Striped Men Hooded Neck Red, Black T-Shirt",
+  "productList": [],
+  "productPrice": 259,
+  "productCategory": "mens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeeb"
+  },
+  "productImg": "/images/Fashion/women/floralprint.jpeg",
+  "productName": "Printed, Floral Print Fashion Lycra Blend Saree  (Maroon, Black)",
+  "productList": [],
+  "productPrice": 479,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeec"
+  },
+  "productImg": "/images/Fashion/women/printmysore.jpeg",
+  "productName": "Printed Mysore Art Silk Saree  (Orange)",
+  "productList": [],
+  "productPrice": 266,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeed"
+  },
+  "productImg": "/images/Fashion/women/kanjivaram.jpeg",
+  "productName": "Printed Kanjivaram Cotton Silk Saree  (Brown, Mustard)",
+  "productList": [],
+  "productPrice": 275,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeee"
+  },
+  "productImg": "/images/Fashion/women/fashioncotton.jpeg",
+  "productName": "Checkered Fashion Cotton Silk Saree  (Beige)",
+  "productList": [],
+  "productPrice": 299,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeef"
+  },
+  "productImg": "/images/Fashion/women/selfdesign.jpeg",
+  "productName": "Self Design Kanjivaram Poly Silk Saree  (Maroon)",
+  "productList": [],
+  "productPrice": 639,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef0"
+  },
+  "productImg": "/images/Fashion/women/floralprint1.jpeg",
+  "productName": "Floral Print, Paisley Mysore Art Silk Saree  (Red)",
+  "productList": [],
+  "productPrice": 355,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef1"
+  },
+  "productImg": "/images/Fashion/women/banarasinet.jpeg",
+  "productName": "Embroidered Banarasi Net, Velvet Saree  (White, Blue)",
+  "productList": [],
+  "productPrice": 479,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef2"
+  },
+  "productImg": "/images/Fashion/women/mysoreartsilk.jpeg",
+  "productName": "Printed Mysore Art Silk Saree  (Blue, Red)",
+  "productList": [],
+  "productPrice": 266,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef3"
+  },
+  "productImg": "/images/Fashion/women/printeddaily.jpeg",
+  "productName": "Printed Daily Wear Poly Georgette Saree  (Black, Beige)",
+  "productList": [],
+  "productPrice": 299,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef4"
+  },
+  "productImg": "/images/Fashion/women/plainfashion.jpeg",
+  "productName": "Woven, Embellished, Plain Fashion Lycra Blend Saree  (Pink)",
+  "productList": [],
+  "productPrice": 499,
+  "productCategory": "womens"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef5"
+  },
+  "productImg": "/images/Fashion/Child/babygirls.jpeg",
+  "productName": "Baby Girls, Girls Calf Length Casual Dress  (Multicolor, Sleeveless)",
+  "productList": [],
+  "productPrice": 299,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef6"
+  },
+  "productImg": "/images/Fashion/Child/donald.jpeg",
+  "productName": "Boys Printed Cotton Blend T Shirt  (Multicolor, Pack of 4)",
+  "productList": [],
+  "productPrice": 664,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef7"
+  },
+  "productImg": "/images/Fashion/Child/boysfestive.jpeg",
+  "productName": "Boys Festive & Party Kurta, Waistcoat and Breeches Set  (Black Pack of 1)",
+  "productList": [],
+  "productPrice": 274,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef8"
+  },
+  "productImg": "/images/Fashion/Child/girlslenga.jpeg",
+  "productName": "Girls Lehenga Choli Ethnic Wear Printed Lehenga, Choli and Dupatta Set  (Pink, Pack of 1)",
+  "productList": [],
+  "productPrice": 659,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaef9"
+  },
+  "productImg": "/images/Fashion/Child/girlsparty.jpeg",
+  "productName": "Girls Party(Festive) Dress Cap  (Grey)",
+  "productList": [],
+  "productPrice": 197,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaefa"
+  },
+  "productImg": "/images/Fashion/Child/boysprinted.jpeg",
+  "productName": "Boys Printed Cotton Blend T Shirt  (Multicolor, Pack of 5)",
+  "productList": [],
+  "productPrice": 699,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaefb"
+  },
+  "productImg": "/images/Fashion/Child/boys1.jpeg",
+  "productName": "Boys Festive & Party Kurta, Waistcoat and Breeches Set  (White Pack of 1)",
+  "productList": [],
+  "productPrice": 283,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaefc"
+  },
+  "productImg": "/images/Fashion/Child/2.jpeg",
+  "productName": "Boys Festive & Party Kurta and Pyjama Set  (Blue Pack of 1)",
+  "productList": [],
+  "productPrice": 299,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaefd"
+  },
+  "productImg": "/images/Fashion/Child/3.jpeg",
+  "productName": "Boys Festive & Party Kurta and Dhoti Pant Set  (Red Pack of 1)",
+  "productList": [],
+  "productPrice": 254,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaefe"
+  },
+  "productImg": "/images/Fashion/Child/4.jpeg",
+  "productName": "Girls Midi/Knee Length Festive/Wedding Dress  (Blue, 3/4 Sleeve)",
+  "productList": [],
+  "productPrice": 323,
+  "productCategory": "kids"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaeff"
+  },
+  "productImg": "/images/Fashion/Watch/1.jpeg",
+  "productName": "huami Amazfit Bip U Smartwatch  (Green Strap, Regular)",
+  "productList": [
+    {
+      "productData": "1.43inch Large Color Touch Screen, Corning Gorilla 3 Reinforced Glass, 5 ATM Water Resistance, 31g Lightweight"
+    },
+    {
+      "productData": "(SpO2) Blood-oxygen Level Measurement, Heart Rate Monitoring and PAI(TM) Heath Assessment System, Stress Monitoring with Breathing Training"
+    },
+    {
+      "productData": "Touchscreen"
+    },
+    {
+      "productData": "Battery Runtime: Upto 9 days"
+    }
+  ],
+  "productPrice": 3999,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf00"
+  },
+  "productImg": "/images/Fashion/Watch/2.jpeg",
+  "productName": "boAt Storm Smartwatch  (Black Strap, Regular)",
+  "productList": [
+    {
+      "productData": "3.3 cms(1.3 inches) Full Touch Screen Curved Display with Multiple Cloud Based Watch Faces (Note: Cloud Based Watch Faces will be Available via OTA Post Launch)"
+    },
+    {
+      "productData": "Metal Body Casing and 5ATM Water Resistance"
+    },
+    {
+      "productData": "Touchscreen"
+    },
+    {
+      "productData": "Battery Runtime: Upto 10 days"
+    }
+  ],
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf01"
+  },
+  "productImg": "/images/Fashion/Watch/3.jpeg",
+  "productName": "Noise ColorFit Pro 2 Smartwatch  (Black Strap, Regular)",
+  "productList": [
+    {
+      "productData": "Get Upto 10 Day Battery Life with Magnetic Charger"
+    },
+    {
+      "productData": "Menstrual Cycle Tracking"
+    },
+    {
+      "productData": "Heart Rate Monitor"
+    },
+    {
+      "productData": "IP68 Waterproof"
+    },
+    {
+      "productData": "Touchscreen"
+    }
+  ],
+  "productPrice": 2499,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf02"
+  },
+  "productImg": "/images/Fashion/Watch/4.jpeg",
+  "productName": "Realme Classic Watch  (Black Strap, Regular)",
+  "productList": [
+    {
+      "productData": "3.5 cm (1.4 inch) Large Color Touch Screen"
+    },
+    {
+      "productData": "Real Time Heart Rate Monitor | Blood Oxygen Level Monitor (SpO2) | Intelligent Activity Tracker (14 Sports Modes) | IP68 Water Resistant"
+    },
+    {
+      "productData": "Touchscreen"
+    },
+    {
+      "productData": "Upto 9 Day Battery Life"
+    },
+    {
+      "productData": "Realme Link App - Get All Your Fitness Data on Your Phone Seamlessly (Only for Android)"
+    }
+  ],
+  "productPrice": 3499,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf03"
+  },
+  "productImg": "/images/Fashion/Watch/5.jpeg",
+  "productName": "realme Watch S  (Black Strap, Regular)",
+  "productList": [
+    {
+      "productData": "3.3cm (1.3 inch) Auto Brightness Touchscreen"
+    },
+    {
+      "productData": "Heart Rate & Blood Oxygen Monitor, IP68 Water Resistant with 16 Sport Modes"
+    },
+    {
+      "productData": "100+ Stylish Watch Faces to be Updated via OTA | Aluminium Alloy Case for a Premium Look and Durability"
+    },
+    {
+      "productData": "Touchscreen"
+    },
+    {
+      "productData": "Battery Runtime: Upto 15 days"
+    },
+    {
+      "productData": "Fitness & Outdoor"
+    }
+  ],
+  "productPrice": 4999,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf04"
+  },
+  "productImg": "/images/Fashion/Watch/6.jpeg",
+  "productName": "huami Amazfit Bip U Smartwatch  (Black Strap, Regular)",
+  "productList": [
+    {
+      "productData": "1.43inch Large Color Touch Screen, Corning Gorilla 3 Reinforced Glass, 5 ATM Water Resistance, 31g Lightweight"
+    },
+    {
+      "productData": "(SpO2) Blood-oxygen Level Measurement, Heart Rate Monitoring and PAI(TM) Heath Assessment System, Stress Monitoring with Breathing Training"
+    },
+    {
+      "productData": "Battery Runtime: Upto 9 days"
+    },
+    {
+      "productData": "Touchscreen"
+    },
+    {
+      "productData": "Alarm Clock, Weather Forecast, and Smartphone Music and Camera Control"
+    }
+  ],
+  "productPrice": 3999,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf05"
+  },
+  "productImg": "/images/Fashion/Watch/7.jpeg",
+  "productName": "GIONEE GSW5 Thermo Smartwatch  (Pink Strap, Regular)",
+  "productList": [
+    {
+      "productData": "Temperature Sensor (Both body and skin)"
+    },
+    {
+      "productData": "Blood Oxygen Indicator"
+    },
+    {
+      "productData": "Heart rate Monitor"
+    },
+    {
+      "productData": "Waterproof IP68"
+    },
+    {
+      "productData": "Calorie Meter"
+    },
+    {
+      "productData": "Fitness & Outdoor"
+    }
+  ],
+  "productPrice": 1999,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf06"
+  },
+  "productImg": "/images/Fashion/Watch/8.jpeg",
+  "productName": "APPLE Watch SE GPS + Cellular 40 mm Space Grey Aluminium Case with Black Sport Band  (Black Strap, Regular)",
+  "productList": [
+    {
+      "productData": "Large Retina OLED display"
+    },
+    {
+      "productData": "With the GPS + Cellular model, you can call, text and navigate without using your smartphone"
+    },
+    {
+      "productData": "use fitness app on your iphone to see your daily activity trends"
+    },
+    {
+      "productData": "track your workouts like swimming, cycling, dancing, jogging, running, yoga"
+    },
+    {
+      "productData": "It has a Swim Proof design"
+    },
+    {
+      "productData": "Fitness & Outdoor"
+    }
+  ],
+  "productPrice": 33900,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf07"
+  },
+  "productImg": "/images/Fashion/Watch/9.jpeg",
+  "productName": "huami Amazfit GTS Smartwatch  (Black Strap, Regular)",
+  "productList": [
+    {
+      "productData": "1.65 341 PPI AMOLED Display with Corning Gorilla 3 Glass   "
+    },
+    {
+      "productData": "Editable Widgets to quickly access the information you need"
+    },
+    {
+      "productData": "Ultrathin and Lightweight Metal Body"
+    },
+    {
+      "productData": "14 Days Battery Life on a Single Charge"
+    },
+    {
+      "productData": "12 Sports Modes & Activity Tracking with distance, calories and steps"
+    },
+    {
+      "productData": "Battery Runtime: Upto 14 days"
+    }
+  ],
+  "productPrice": 5999,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf08"
+  },
+  "productImg": "/images/Fashion/Watch/10.jpeg",
+  "productName": "WaAPPLE Watch Series 3 GPS - 38 mm Space Grey Aluminium Case with Black Sport Band  (Black Strap, Regular)tch",
+  "productList": [
+    {
+      "productData": "GPS and Altimeter"
+    },
+    {
+      "productData": "3 Activity Rings Tracking - Move, Exercise, Stand"
+    },
+    {
+      "productData": "Activity Sharing and Achievements"
+    },
+    {
+      "productData": "Heart Rate Monito"
+    },
+    {
+      "productData": "Breathe App"
+    },
+    {
+      "productData": "Battery Runtime: Upto 18 hrs"
+    }
+  ],
+  "productPrice": 20900,
+  "productCategory": "watch"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf09"
+  },
+  "productImg": "/images/Fridge/1.jpeg",
+  "productName": "LG 190 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer with Smart Inverter Compressor  (Blue Charm, GL-D201ABCZ)",
+  "productList": [
+    {
+      "productData": "190 L : Good for couples and small families"
+    },
+    {
+      "productData": "Smart Inverter Compressor"
+    },
+    {
+      "productData": "5 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 16490,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf0a"
+  },
+  "productImg": "/images/Fridge/2.jpeg",
+  "productName": "SAMSUNG 192 L Direct Cool Single Door 2 Star Refrigerator with Base Drawer  (Mystic Overlay Red, RR19A2Z2B6R/NL)",
+  "productList": [
+    {
+      "productData": "192 L : Good for couples and small families"
+    },
+    {
+      "productData": "Liner Compressor"
+    },
+    {
+      "productData": "2 Star : For Energy savings up to 20%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 13790,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf0b"
+  },
+  "productImg": "/images/Fridge/3.jpeg",
+  "productName": "SAMSUNG 198 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer  (Camellia Blue, RR21T2H2WCU/HL)",
+  "productList": [
+    {
+      "productData": "198 L : Good for couples and small families"
+    },
+    {
+      "productData": "Digital Inverter Compressor"
+    },
+    {
+      "productData": "5 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 17490,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf0c"
+  },
+  "productImg": "/images/Fridge/4.jpeg",
+  "productName": "SAMSUNG 192 L Direct Cool Single Door 2 Star Refrigerator  (Gray Silver, RR19A241BGS/NL)",
+  "productList": [
+    {
+      "productData": "192 L : Good for couples and small families"
+    },
+    {
+      "productData": "Linear Compressor"
+    },
+    {
+      "productData": "2 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 12090,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf0d"
+  },
+  "productImg": "/images/Fridge/5.jpeg",
+  "productName": "Haier 195 L Direct Cool Single Door 4 Star Refrigerator  (DAZZLE STEEL, HED-20CFDS)",
+  "productList": [
+    {
+      "productData": "195 L : Good for couples and small families"
+    },
+    {
+      "productData": "Reciprocatory Compressor"
+    },
+    {
+      "productData": "4 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 13690,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf0e"
+  },
+  "productImg": "/images/Fridge/6.jpeg",
+  "productName": "CANDY 170 L Direct Cool Single Door 2 Star Refrigerator  (Moon Silver, CDSD522170MS)",
+  "productList": [
+    {
+      "productData": "170 L : Good for couples and small families"
+    },
+    {
+      "productData": "Smart Inverter Compressor"
+    },
+    {
+      "productData": "2 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 9390,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf0f"
+  },
+  "productImg": "/images/Fridge/7.jpeg",
+  "productName": "SAMSUNG 192 L Direct Cool Single Door 2 Star Refrigerator with Base Drawer  (Mystic Overlay Blue, RR19A2Z2B6U/NL)",
+  "productList": [
+    {
+      "productData": "190 L : Good for couples and small families"
+    },
+    {
+      "productData": "Smart Inverter Compressor"
+    },
+    {
+      "productData": "2 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 13790,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf10"
+  },
+  "productImg": "/images/Fridge/8.jpeg",
+  "productName": "godrej 236 l frost free double door 2 star refrigerator",
+  "productList": [
+    {
+      "productData": "190 L : Good for couples and small families"
+    },
+    {
+      "productData": "Smart Inverter Compressor"
+    },
+    {
+      "productData": "5 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 18690,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf11"
+  },
+  "productImg": "/images/Fridge/9.jpeg",
+  "productName": "SAMSUNG 198 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer  (Camellia Purple, RR21T2H2XCR/HL)",
+  "productList": [
+    {
+      "productData": "198 L : Good for couples and small families"
+    },
+    {
+      "productData": "Smart Inverter Compressor"
+    },
+    {
+      "productData": "4 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 16150,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf12"
+  },
+  "productImg": "/images/Fridge/10.jpeg",
+  "productName": "LG 190 L Direct Cool Single Door 4 Star Refrigerator with Base Drawer  (Blue Plumeria, GL-D201ABPY)",
+  "productList": [
+    {
+      "productData": "190 L : Good for couples and small families"
+    },
+    {
+      "productData": "Smart Inverter Compressor"
+    },
+    {
+      "productData": "4 Star : For Energy savings up to 55%"
+    },
+    {
+      "productData": "Direct Cool : Economical, consumes less electricity, requires manual defrosting"
+    }
+  ],
+  "productPrice": 15690,
+  "productCategory": "fridgecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf13"
+  },
+  "productImg": "/images/headphone/boat370.jpeg",
+  "productName": "boAt Rockerz 370 Bluetooth Headset",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Connector type: 3.5 mm"
+    },
+    {
+      "productData": "Bluetooth version: 5.0"
+    },
+    {
+      "productData": "Wireless range: 10 m"
+    },
+    {
+      "productData": "Playback: Up to 8 Hours"
+    },
+    {
+      "productData": "Dual Connectivity: Yes (Bluetooth & AUX)"
+    }
+  ],
+  "productPrice": 1199,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf14"
+  },
+  "productImg": "/images/headphone/boat510.jpeg",
+  "productName": "boAt Rockerz 510 ",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Bluetooth version: 4.1"
+    },
+    {
+      "productData": "Wireless range: 10 m"
+    },
+    {
+      "productData": "Battery life: 20 hrs | Charging time: 2 hrs"
+    },
+    {
+      "productData": "Extra bass: Add extra thump to your music"
+    },
+    {
+      "productData": "Using simple touch controls answer phone calls, change music tracks and control volume"
+    }
+  ],
+  "productPrice": 1599,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf15"
+  },
+  "productImg": "/images/headphone/boat900.jpeg",
+  "productName": "boAt BassHeads 900 ",
+  "productList": [
+    {
+      "productData": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB"
+    },
+    {
+      "productData": "16.59 cm (6.53 inch) Full HD+ Display"
+    },
+    {
+      "productData": "48MP + 2MP + 2MP | 8MP Front Camera"
+    },
+    {
+      "productData": "6000 mAh Lithium-ion Polymer Battery"
+    },
+    {
+      "productData": "Qualcomm Snapdragon 662 Processor"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productPrice": 1199,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf16"
+  },
+  "productImg": "/images/headphone/boatrocker.jpeg",
+  "productName": "boAt Rockerz 400 Super Extra Bass Bluetooth Headset",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Bluetooth version: 5.0"
+    },
+    {
+      "productData": "Wireless range: 10 m"
+    },
+    {
+      "productData": "Battery life: 8 hrs | Charging time: 2 hrs"
+    },
+    {
+      "productData": "Foldable/ Collapsible: Designed for people always on the move, easy storage and easy to carry"
+    },
+    {
+      "productData": "Extra bass: Add extra thump to your music"
+    }
+  ],
+  "productPrice": 1299,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf17"
+  },
+  "productImg": "/images/headphone/hp8aa.jpeg",
+  "productName": "HP 8AA07AA H200GS Gaming USB Headset Wired Headset ",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    }
+  ],
+  "productPrice": 1799,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf18"
+  },
+  "productImg": "/images/headphone/jblquantum.jpeg",
+  "productName": "JBL Quantum 100 Wired Gaming Headset",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Connector type: 3.5 mm"
+    }
+  ],
+  "productPrice": 2599,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf19"
+  },
+  "productImg": "/images/headphone/redze.jpeg",
+  "productName": "Redgear Cosmo 7.1 RGB Wired Gaming Headset",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Connector type: 3.5 mm"
+    }
+  ],
+  "productPrice": 1999,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf1a"
+  },
+  "productImg": "/images/headphone/sonywh.jpeg",
+  "productName": "SONY WH-CH510 Google Assistant enabled Bluetooth Headset ",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Bluetooth version: 5.0"
+    },
+    {
+      "productData": "Wireless range: 10 m"
+    },
+    {
+      "productData": "Using simple touch controls answer phone calls."
+    },
+    {
+      "productData": "Swivel cups: Rotate the ear cups flat for easy packing"
+    },
+    {
+      "productData": "Access your google assistant from your speaker"
+    }
+  ],
+  "productPrice": 2999,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf1b"
+  },
+  "productImg": "/images/headphone/boatrocker510.jpeg",
+  "productName": "boAt Rockerz 510",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Bluetooth version: 5.0"
+    },
+    {
+      "productData": "Wireless range: 10 m"
+    },
+    {
+      "productData": "Using simple touch controls answer phone calls."
+    },
+    {
+      "productData": "Swivel cups: Rotate the ear cups flat for easy packing"
+    },
+    {
+      "productData": "Battery life: 10 hrs | Charging time: 2 hrs"
+    }
+  ],
+  "productPrice": 1599,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf1c"
+  },
+  "productImg": "/images/headphone/cosmicspyder.jpeg",
+  "productName": "CosmicByte Spider Wired Gaming Headset",
+  "productList": [
+    {
+      "productData": "With Mic:Yes"
+    },
+    {
+      "productData": "Connector type: 3.5 mm"
+    }
+  ],
+  "productPrice": 1199,
+  "productCategory": "headphonecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf1d"
+  },
+  "productImg": "/images/Homedecor/Bedroom/1.jpeg",
+  "productName": "Bharat Lifestyle Rome Exotic teak Engineered Wood Queen Box Bed  (Finish Color - Exotic teak, Delivery Condition - Knock Down)",
+  "productList": [
+    {
+      "productData": "Bed Material Subtype: Particle Board"
+    },
+    {
+      "productData": "W x H x D: 1556.7 mm x 914.4 mm x 1993.9 mm (5 ft 1 in x 3 ft x 6 ft 6 in)"
+    },
+    {
+      "productData": "Storage Type: Box"
+    },
+    {
+      "productData": "Recommended Mattress Size: Length =72 inches xWidth = 60 inches"
+    },
+    {
+      "productData": "Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    }
+  ],
+  "productPrice": 12749,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf1e"
+  },
+  "productImg": "/images/Homedecor/Bedroom/2.jpeg",
+  "productName": "Godrej Interio Slimline 3 Door With Locker Metal Almirah  (Finish Color - Textured Purple, Knock Down)",
+  "productList": [
+    {
+      "productData": "Type: Almirah"
+    },
+    {
+      "productData": "Contemporary & Modern Style"
+    },
+    {
+      "productData": "Suitable For: Bedroom"
+    },
+    {
+      "productData": "W x H x D: 1349 mm x 1950 mm x 507 mm (4 ft 5 in x 6 ft 4 in x 1 ft 7 in)"
+    },
+    {
+      "productData": "Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    }
+  ],
+  "productPrice": 38262,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf1f"
+  },
+  "productImg": "/images/Homedecor/Bedroom/3.jpeg",
+  "productName": "Perfect Homes Studio 2 Door 4 Shelf PP Collapsible Wardrobe  (Finish Color - Chocolate Brown, DIY(Do-It-Yourself))        ",
+  "productList": [
+    {
+      "productData": "Foldable"
+    },
+    {
+      "productData": "W x H x D: 71 cm x 155 cm x 44.5 cm (2 ft 3 in x 5 ft 1 in x 1 ft 5 in)"
+    },
+    {
+      "productData": "Primary Material: Fabric"
+    },
+    {
+      "productData": "Secondary Material: Metal"
+    }
+  ],
+  "productPrice": 1199,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf20"
+  },
+  "productImg": "/images/Homedecor/Bedroom/4.jpeg",
+  "productName": "Perfect Homes Carol Engineered Wood Queen Bed  (Finish Color - Espresso, Delivery Condition - Knock Down)",
+  "productList": [
+    {
+      "productData": "Bed Material Subtype: Particle Board"
+    },
+    {
+      "productData": "W x H x D: 159.5 cm x 80 cm x 203.5 cm (5 ft 2 in x 2 ft 7 in x 6 ft 8 in)"
+    },
+    {
+      "productData": "Recommended Mattress Size: Length = 78 inches x Width = 60 inches"
+    },
+    {
+      "productData": "Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    }
+  ],
+  "productPrice": 10190,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf21"
+  },
+  "productImg": "/images/Homedecor/Bedroom/5.jpeg",
+  "productName": "Pearl World Fabric Pouf  (Finish Color - Red, Pre Assembled)",
+  "productList": [
+    {
+      "productData": "W x H x D: 50.8 cm x 35.56 cm x 14 cm (1 ft 8 in x 1 ft 2 in x 5 in)"
+    },
+    {
+      "productData": "Material: Fabric"
+    },
+    {
+      "productData": "Color: Red"
+    }
+  ],
+  "productPrice": 436,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf22"
+  },
+  "productImg": "/images/Homedecor/Bedroom/6.jpeg",
+  "productName": "Swingzy Rectangle-Shape Swing Chair Hanging Polyester Large Swing  (Black, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Material: Polyester"
+    },
+    {
+      "productData": "Color: Black"
+    },
+    {
+      "productData": "Maximum Load: 200 kg | Weight: 2 kg"
+    },
+    {
+      "productData": "W x H: 64 cm x 66 cm (2 ft 1 in x 2 ft 1 in)"
+    },
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 2543,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf23"
+  },
+  "productImg": "/images/Homedecor/Bedroom/7.jpeg",
+  "productName": "Perfect Homes Rhapsody Engineered Wood King Box Bed  (Finish Color - Espresso, Delivery Condition - Knock Down)",
+  "productList": [
+    {
+      "productData": "Bed Material Subtype: Particle Board"
+    },
+    {
+      "productData": "W x H x D: 192.7 cm x 89 cm x 218 cm (6 ft 3 in x 2 ft 11 in x 7 ft 1 in)"
+    },
+    {
+      "productData": "Storage Type: Box"
+    },
+    {
+      "productData": "Recommended Mattress Size: Length :- 78 inch x Width :- 72 Inch"
+    },
+    {
+      "productData": "Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    }
+  ],
+  "productPrice": 17590,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf24"
+  },
+  "productImg": "/images/Homedecor/Bedroom/8.jpeg",
+  "productName": "Perfect Homes Studio PP Collapsible Wardrobe  (Finish Color - Brown, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Foldable"
+    },
+    {
+      "productData": "W x H x D: 98 cm x 155 cm x 45 cm (3 ft 2 in x 5 ft 1 in x 1 ft 5 in)"
+    },
+    {
+      "productData": "Primary Material: Fabric"
+    },
+    {
+      "productData": "Secondary Material: Metal"
+    },
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 1299,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf25"
+  },
+  "productImg": "/images/Homedecor/Bedroom/9.jpeg",
+  "productName": "Cosmoss Plastic Kitchen Trolley  (DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 685,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf26"
+  },
+  "productImg": "/images/Homedecor/Bedroom/10.jpeg",
+  "productName": "Bhimada PP Collapsible Wardrobe  (Finish Color - Brown, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Foldable"
+    },
+    {
+      "productData": "W x H x D: 600 mm x 1080 mm x 300 mm (1 ft 11 in x 3 ft 6 in x 11 in)"
+    },
+    {
+      "productData": "Primary Material: Fabric"
+    },
+    {
+      "productData": "Secondary Material: Plastic, Metal"
+    },
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 799,
+  "productCategory": "bedroomfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf27"
+  },
+  "productImg": "/images/Homedecor/Living/1.jpeg",
+  "productName": "The Jaipur Living Edit Glass Solid Wood 4 Seater Dining Set  (Finish Color -Honey Brown, Knock Down)",
+  "productList": [
+    {
+      "productData": "Table Top Material: Glass"
+    },
+    {
+      "productData": "Chair Frame: Solid Wood"
+    },
+    {
+      "productData": "Table (W x H x D): 100 cm x 76 cm x 100 cm (3 ft 3 in x 2 ft 5 in x 3 ft 3 in)"
+    },
+    {
+      "productData": "Seating Capacity: 4 Seater"
+    },
+    {
+      "productData": "Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    }
+  ],
+  "productPrice": 36125,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf28"
+  },
+  "productImg": "/images/Homedecor/Living/2.jpeg",
+  "productName": "The Jaipur Living Mombassa Solid Wood Dressing Table  (Finish Color - , Honey Brown, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Storage Included"
+    },
+    {
+      "productData": "W x H x D: 100 cm x 80 cm x 42 cm (3 ft 3 in x 2 ft 7 in x 1 ft 4 in)"
+    },
+    {
+      "productData": "Mirror W x H: 100 cm x 55 cm"
+    },
+    {
+      "productData": "Finish Type: Glossy | Finish Color: Honey Brown"
+    },
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 11466,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf29"
+  },
+  "productImg": "/images/Homedecor/Living/3.jpeg",
+  "productName": "The Jaipur Living Mombassa Solid Wood Dressing Table  (Finish Color - , Honey Brown, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Upholestry: Polycotton"
+    },
+    {
+      "productData": "Filling Material: Foam"
+    },
+    {
+      "productData": "W x H x D: 77 cm x 83 cm x 131 cm (2 ft 6 in x 2 ft 8 in x 4 ft 3 in)"
+    },
+    {
+      "productData": "Symmetrical"
+    },
+    {
+      "productData": "Delivery Condition: DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 19599,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf2a"
+  },
+  "productImg": "/images/Homedecor/Living/4.jpeg",
+  "productName": "Urban Living Bristol Fabric 3 Seater Sofa  (Finish Color - Grey, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Upholestry: Polycotton"
+    },
+    {
+      "productData": "Filling Material: Foam"
+    },
+    {
+      "productData": "W x H x D: 199 cm x 86 cm x 81 cm (6 ft 6 in x 2 ft 9 in x 2 ft 7 in)"
+    },
+    {
+      "productData": "Symmetrical"
+    },
+    {
+      "productData": "Delivery Condition: DIY - Basic assembly to be done with simple tools by the customer, comes with instructions"
+    }
+  ],
+  "productPrice": 28199,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf2b"
+  },
+  "productImg": "/images/Homedecor/Living/5.jpeg",
+  "productName": "Urban Living Bristol Fabric 2 Seater Sofa  (Finish Color - Brown, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Upholestry: Polycotton"
+    },
+    {
+      "productData": "Filling Material: Foam"
+    },
+    {
+      "productData": "W x H x D: 146 cm x 86 cm x 81 cm (4 ft 9 in x 2 ft 9 in x 2 ft 7 in)"
+    },
+    {
+      "productData": "Symmetrical"
+    },
+    {
+      "productData": "Delivery Condition: DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 21299,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf2c"
+  },
+  "productImg": "/images/Homedecor/Living/6.jpeg",
+  "productName": "The Jaipur Living Arabia Solid Wood Coffee Table  (Finish Color - Honey Brown, Pre-assembled)",
+  "productList": [
+    {
+      "productData": "Mango Wood"
+    },
+    {
+      "productData": "Solid Wood"
+    },
+    {
+      "productData": "W x H x D: 80 cm x 35 cm x 55 cm (2 ft 7 in x 1 ft 1 in x 1 ft 9 in)"
+    },
+    {
+      "productData": "Pre Assembled (Ready to Use)"
+    }
+  ],
+  "productPrice": 5034,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf2d"
+  },
+  "productImg": "/images/Homedecor/Living/7.jpeg",
+  "productName": "The Jaipur Living Living & Bedroom Stool  (Brown, Pre-assembled)",
+  "productList": [
+    {
+      "productData": " Stool"
+    },
+    {
+      "productData": "Made of Wood"
+    },
+    {
+      "productData": "Width x Height: 450 mm x 340 mm (1 ft 5 in x 1 ft 1 in)"
+    },
+    {
+      "productData": "Load Capacity: 5 kg"
+    },
+    {
+      "productData": "Pre Assembled (Ready to Use)"
+    }
+  ],
+  "productPrice": 1890,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf2e"
+  },
+  "productImg": "/images/Homedecor/Living/8.jpeg",
+  "productName": "Totza Living Jumbo Chair Bean Bag Cover (Without Beans)  (Blue)",
+  "productList": [
+    {
+      "productData": "Totza Living"
+    },
+    {
+      "productData": "ACC_Navyblue"
+    },
+    {
+      "productData": "Jumbo"
+    },
+    {
+      "productData": "Navy Blue"
+    }
+  ],
+  "productPrice": 999,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf2f"
+  },
+  "productImg": "/images/Homedecor/Living/9.jpeg",
+  "productName": "Urban Living Buffalo Fabric 3 Seater Sofa  (Finish Color - Grey, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": " Upholestry: Polycotton"
+    },
+    {
+      "productData": "Filling Material: Foam"
+    },
+    {
+      "productData": "W x H x D: 183.5 cm x 70.3 cm x 81.3 cm (6 ft x 2 ft 3 in x 2 ft 8 in)"
+    },
+    {
+      "productData": "Symmetrical"
+    }
+  ],
+  "productPrice": 26299,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf30"
+  },
+  "productImg": "/images/Homedecor/Living/10.jpeg",
+  "productName": "Urban Living Truro Fabric 3 Seater Sofa  (Finish Color - Grey, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Upholestry: Polycotton"
+    },
+    {
+      "productData": "Filling Material: Foam"
+    },
+    {
+      "productData": "W x H x D: 184 cm x 83.82 cm x 86.36 cm (6 ft x 2 ft 9 in x 2 ft 10 in)"
+    },
+    {
+      "productData": "Symmetrical"
+    },
+    {
+      "productData": "Delivery Condition: DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 31599,
+  "productCategory": "livingfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf31"
+  },
+  "productImg": "/images/Homedecor/Kids/1.jpeg",
+  "productName": "MINNAS CENTRAL Collapsible Wardrobe 88130 PP Collapsible Wardrobe  (Finish Color - Red, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Foldable"
+    },
+    {
+      "productData": "W x H x D: 450 mm x 1750 mm x 1300 mm (1 ft 5 in x 5 ft 8 in x 4 ft 3 in)"
+    },
+    {
+      "productData": "Primary Material: Fabric"
+    },
+    {
+      "productData": "Secondary Material: Metal"
+    },
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 1568,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf32"
+  },
+  "productImg": "/images/Homedecor/Kids/2.jpeg",
+  "productName": "FurnCentral Metal Open Book Shelf  (Finish Color - Snoopy, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Type: Open | 12 Shelves"
+    },
+    {
+      "productData": "Metal"
+    },
+    {
+      "productData": "W x H x D: 152 cm x 144 cm x 31 cm (4 ft 11 in x 4 ft 8 in x 1 ft)"
+    },
+    {
+      "productData": "Mount: Free Standing"
+    },
+    {
+      "productData": "Style: Contemporary & Modern"
+    },
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 1299,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf33"
+  },
+  "productImg": "/images/Homedecor/Kids/3.jpeg",
+  "productName": "Angel Furniture Sheesham Wood Solid Wood Bedside Table  (Finish Color - Honey FInish, Pre-assembled)",
+  "productList": [
+    {
+      "productData": "Rectangular"
+    },
+    {
+      "productData": "Width x Height: 60 x 70 cm (1 ft 11 in x 2 ft 3 in)"
+    },
+    {
+      "productData": "Suitable For: Living Room, Bedroom Furniture"
+    },
+    {
+      "productData": "Storage Included"
+    },
+    {
+      "productData": "Pre Assembled (Ready to Use)"
+    }
+  ],
+  "productPrice": 6890,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf34"
+  },
+  "productImg": "/images/Homedecor/Kids/4.jpeg",
+  "productName": "SPACEWOOD Engineered Wood Single Box Bed  (Finish Color - Walnut Rigato, Delivery Condition - Knock Down)",
+  "productList": [
+    {
+      "productData": "Bed Material Subtype: Particle Board"
+    },
+    {
+      "productData": "W x H x D: 183 cm x 40 cm x 80 cm (6 ft x 1 ft 3 in x 2 ft 7 in)"
+    },
+    {
+      "productData": "Storage Type: Box"
+    },
+    {
+      "productData": "Recommended Mattress Size: Length = 78 inches x Width = 36 inches"
+    }
+  ],
+  "productPrice": 7990,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf35"
+  },
+  "productImg": "/images/Homedecor/Kids/5.jpeg",
+  "productName": "FurnCentral Metal Open Book Shelf  (Finish Color - Lucky cherry, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Type: Open | 5 Shelves"
+    },
+    {
+      "productData": "Metal"
+    },
+    {
+      "productData": "W x H x D: 52 cm x 144 cm x 31 cm (1 ft 8 in x 4 ft 8 in x 1 ft)"
+    },
+    {
+      "productData": "Mount: Free Standing"
+    },
+    {
+      "productData": "Style: Contemporary & Modern"
+    }
+  ],
+  "productPrice": 923,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf36"
+  },
+  "productImg": "/images/Homedecor/Kids/6.jpeg",
+  "productName": "Perfect Homes Studio Metal Open Book Shelf  (Finish Color - Lucky Cherry, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Type: Open | 3 Shelves"
+    },
+    {
+      "productData": "Metal"
+    },
+    {
+      "productData": "W x H x D: 52 cm x 75 cm x 31 cm (1 ft 8 in x 2 ft 5 in x 1 ft)"
+    },
+    {
+      "productData": "Mount: Free Standing"
+    },
+    {
+      "productData": "Style: Contemporary & Modern"
+    }
+  ],
+  "productPrice": 747,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf37"
+  },
+  "productImg": "/images/Homedecor/Kids/7.jpeg",
+  "productName": "DISNEY Princess Carriage Toddler Solid Wood Single Box Bed  (Finish Color - Glossy, Delivery Condition - Knock Down)",
+  "productList": [
+    {
+      "productData": "Bed Material Subtype: MDF"
+    },
+    {
+      "productData": "W x H x D: 85 cm x 157 cm x 171 cm (2 ft 9 in x 5 ft 1 in x 5 ft 7 in)"
+    },
+    {
+      "productData": "Storage Type: Box"
+    },
+    {
+      "productData": "Recommended Mattress Size: Lenght = 140 cm X Width = 70 cm"
+    }
+  ],
+  "productPrice": 25264,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf38"
+  },
+  "productImg": "/images/Homedecor/Kids/8.jpeg",
+  "productName": "SPACEWOOD Day Engineered Wood Single Box Bed  (Finish Color - Natural Wenge Woodpore, Delivery Condition - Knock Down)",
+  "productList": [
+    {
+      "productData": " Bed Material Subtype: Particle Board"
+    },
+    {
+      "productData": "W x H x D: 183 cm x 40 cm x 80 cm (6 ft x 1 ft 3 in x 2 ft 7 in)"
+    },
+    {
+      "productData": "Storage Type: Box"
+    },
+    {
+      "productData": "Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    }
+  ],
+  "productPrice": 12400,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf39"
+  },
+  "productImg": "/images/Homedecor/Kids/9.jpeg",
+  "productName": "Multi-Table Wood Portable Laptop Table  (Finish Color - Brown, Pre Assembled)",
+  "productList": [
+    {
+      "productData": "Primary Material: Wood"
+    },
+    {
+      "productData": "W x H x D: 60.96 cm x 25.4 cm x 30.48 cm (2 ft x 10 in x 1 ft)"
+    },
+    {
+      "productData": "Foldable"
+    },
+    {
+      "productData": "With Mouse Tray"
+    }
+  ],
+  "productPrice": 1389,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf3a"
+  },
+  "productImg": "/images/Homedecor/Kids/10.jpeg",
+  "productName": "AASA Plastic Study Table  (Finish Color - Multicolor, DIY(Do-It-Yourself))",
+  "productList": [
+    {
+      "productData": "Shape: Round"
+    },
+    {
+      "productData": "W x H x D: 1.1 cm x 0.9 cm x 0.8 cm Foldable"
+    },
+    {
+      "productData": "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    }
+  ],
+  "productPrice": 499,
+  "productCategory": "kidsfurniture"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf3b"
+  },
+  "productImg": "/images/Homedecor/Decor/1.jpeg",
+  "productName": "Art Amori Radhe krishna religious three Piece MDF Painting Digital Reprint 18 inch x 24 inch Painting",
+  "productList": [
+    {
+      "productData": "Theme: Religious"
+    },
+    {
+      "productData": "Water Resistant"
+    },
+    {
+      "productData": "W x H: 24 inch x 18 inch"
+    },
+    {
+      "productData": "Type: Digital Reprint"
+    }
+  ],
+  "productPrice": 349,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf3c"
+  },
+  "productImg": "/images/Homedecor/Decor/2.jpeg",
+  "productName": "Masstone Peacock Modern Art 3 Piece MDF Painting Digital Reprint 15 inch x 18 inch Painting",
+  "productList": [
+    {
+      "productData": "Theme: Modern Art"
+    },
+    {
+      "productData": "Frame Included"
+    },
+    {
+      "productData": "W x H: 18 inch x 15 inch"
+    },
+    {
+      "productData": "Type: Digital Reprint"
+    }
+  ],
+  "productPrice": 259,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf3d"
+  },
+  "productImg": "/images/Homedecor/Decor/11.jpeg",
+  "productName": "Aquire Extra Large PVC Vinyl  (Pack of 1)",
+  "productList": [
+    {
+      "productData": "Color: Multicolor"
+    },
+    {
+      "productData": "Pack of 1"
+    },
+    {
+      "productData": "Size: 150 cm x 90 cm"
+    },
+    {
+      "productData": "Theme: Abstract"
+    }
+  ],
+  "productPrice": 138,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf3e"
+  },
+  "productImg": "/images/Homedecor/Decor/4.jpeg",
+  "productName": "BLUEWUD Vivid Wood Key Holder  (5 Hooks, Brown)",
+  "productList": [
+    {
+      "productData": "Wood"
+    },
+    {
+      "productData": "Number of Hooks: 5"
+    },
+    {
+      "productData": "Color: Brown"
+    },
+    {
+      "productData": "Width: 21 cm"
+    },
+    {
+      "productData": "Height: 13 cm"
+    }
+  ],
+  "productPrice": 449,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf3f"
+  },
+  "productImg": "/images/Homedecor/Decor/5.jpeg",
+  "productName": "WolTop Extra Large PVC Wall paper  (Pack of 1)",
+  "productList": [
+    {
+      "productData": "Color: Multicolor"
+    },
+    {
+      "productData": "Pack of 1"
+    },
+    {
+      "productData": "Theme: Floral & Botanical"
+    }
+  ],
+  "productPrice": 249,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf40"
+  },
+  "productImg": "/images/Homedecor/Decor/6.jpeg",
+  "productName": "Aquire Medium PVC Vinyl  (Pack of 1)",
+  "productList": [
+    {
+      "productData": "Color: Black"
+    },
+    {
+      "productData": "Pack of 1   "
+    },
+    {
+      "productData": "Size: 110 cm x 70 cm"
+    },
+    {
+      "productData": "Theme: Quotes"
+    }
+  ],
+  "productPrice": 104,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf41"
+  },
+  "productImg": "/images/Homedecor/Decor/7.jpeg",
+  "productName": "Flipkart SmartBuy Extra Large Wall Sticker Wallpaper  (Pack of 1)",
+  "productList": [
+    {
+      "productData": "Color: Multicolor"
+    },
+    {
+      "productData": "Pack of 1"
+    },
+    {
+      "productData": "Theme: Nature"
+    }
+  ],
+  "productPrice": 259,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf42"
+  },
+  "productImg": "/images/Homedecor/Decor/8.jpeg",
+  "productName": "Aquire Extra Large PVC Vinyl  (Pack of 1)",
+  "productList": [
+    {
+      "productData": "Color: Multicolor"
+    },
+    {
+      "productData": "Pack of 1"
+    },
+    {
+      "productData": "Size: 196 cm x 120 cm"
+    },
+    {
+      "productData": "Theme: Home"
+    }
+  ],
+  "productPrice": 136,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf43"
+  },
+  "productImg": "/images/Homedecor/Decor/9.jpeg",
+  "productName": "Indianara Motivational Spiritual Inspirational Art Prints Indr1429 Digital Reprint 8.7 inch x 8.7 inch Painting",
+  "productList": [
+    {
+      "productData": " Theme: Modern Art"
+    },
+    {
+      "productData": "Water Resistant"
+    },
+    {
+      "productData": "Frame Included"
+    },
+    {
+      "productData": "W x H: 8.7 inch x 8.7 inch"
+    },
+    {
+      "productData": "Type: Digital Reprint"
+    }
+  ],
+  "productPrice": 362,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf44"
+  },
+  "productImg": "/images/Homedecor/Decor/10.jpeg",
+  "productName": "Indianara FLOWERS IN A VASE Ink 11 inch x 9 inch Painting",
+  "productList": [
+    {
+      "productData": "Theme: Reprint"
+    },
+    {
+      "productData": "Water Resistant"
+    },
+    {
+      "productData": "Frame Included"
+    },
+    {
+      "productData": "W x H: 9 inch x 11 inch"
+    },
+    {
+      "productData": "Type: Ink"
+    }
+  ],
+  "productPrice": 270,
+  "productCategory": "homedecoration"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf45"
+  },
+  "productImg": "/images/Homedecor/Cookware/1.jpeg",
+  "productName": "Induction Bottom Cookware Set of 3  (Aluminium, 3 - Piece)",
+  "productList": [
+    {
+      "productData": " Made of: Aluminium"
+    },
+    {
+      "productData": "Inclusions: Tawa, Fry Pan, Kadha"
+    },
+    {
+      "productData": "Non-stick Coating"
+    },
+    {
+      "productData": "Capacity: Kadhai 2.2 L L, Pan 1.4 L L"
+    },
+    {
+      "productData": "Induction Bottom, Lid Included"
+    }
+  ],
+  "productPrice": 989,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf46"
+  },
+  "productImg": "/images/Homedecor/Cookware/2.jpeg",
+  "productName": "Pigeon by Stovekraft Special Aluminium Pressure Cooker Combo 2 L, 3 L, 5 L Induction Bottom Pressure Cooker  (Aluminium)",
+  "productList": [
+    {
+      "productData": " Made of: Aluminium"
+    },
+    {
+      "productData": "Pack of: 3"
+    },
+    {
+      "productData": "With Induction Bottom"
+    },
+    {
+      "productData": "Capacity: 2 L, 3 L, 5 L"
+    },
+    {
+      "productData": "Lid Type: Outer Lid"
+    }
+  ],
+  "productPrice": 1649,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf47"
+  },
+  "productImg": "/images/Homedecor/Cookware/3.jpeg",
+  "productName": "Pigeon Special Combi Pack 2 L, 3 L, 5 L Induction Bottom Pressure Cooker & Pressure Pan  (Stainless Steel)",
+  "productList": [
+    {
+      "productData": " Made of: Stainless Steel"
+    },
+    {
+      "productData": "Pack of: 3"
+    },
+    {
+      "productData": "With Induction Bottom"
+    },
+    {
+      "productData": "Capacity: 2 L, 3 L, 5 L"
+    },
+    {
+      "productData": "Lid Type: Outer Lid"
+    }
+  ],
+  "productPrice": 2449,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf48"
+  },
+  "productImg": "/images/Homedecor/Cookware/4.jpeg",
+  "productName": "LIMETRO STEEL Set of 5 Copper Bottom Tope Multi Purpose Cookware Set  (Stainless Steel, 5 - Piece)",
+  "productList": [
+    {
+      "productData": " Made of: Stainless Steel"
+    },
+    {
+      "productData": "Inclusions: Pot, Tope, Patila"
+    },
+    {
+      "productData": "Capacity: 1 L, 1.5 L, 2 L, 2.5 L, 3 L"
+    },
+    {
+      "productData": "Dishwasher Safe, Lid Included"
+    }
+  ],
+  "productPrice": 1329,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf49"
+  },
+  "productImg": "/images/Homedecor/Cookware/5.jpeg",
+  "productName": "BERGNER Bergner Iris 5 Pcs Cookware Set (Wok-24 Cm, Frypan-24 Cm, Tawa-25 Cm, Mini Pan-14 Cm) Induction Bottom Cookware Set  (Aluminium, 5 - Piece)",
+  "productList": [
+    {
+      "productData": " Made of: Aluminium"
+    },
+    {
+      "productData": "Inclusions: Tawa, Fry Pan, Kadha"
+    },
+    {
+      "productData": "Non-stick Coating"
+    },
+    {
+      "productData": "Capacity: Kadhai-2.4 L, Fry Pan-1.3 L"
+    },
+    {
+      "productData": "Induction Bottom, Lid Included"
+    }
+  ],
+  "productPrice": 1399,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf4a"
+  },
+  "productImg": "/images/Homedecor/Cookware/6.jpeg",
+  "productName": "Renberg Orchid Induction Bottom Cookware Set  (Aluminium, 7 - Piece)",
+  "productList": [
+    {
+      "productData": " Made of: Aluminium"
+    },
+    {
+      "productData": "Inclusions: Tawa, Fry Pan, Kadha"
+    },
+    {
+      "productData": "Non-stick Coating"
+    },
+    {
+      "productData": "Capacity: Kadhai-2.4 L, Fry Pan-1.3 L"
+    },
+    {
+      "productData": "Induction Bottom, Lid Included"
+    }
+  ],
+  "productPrice": 1399,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf4b"
+  },
+  "productImg": "/images/Homedecor/Cookware/7.jpeg",
+  "productName": "IMPEX Special Combo IFC 235 2 L, 3 L, 5 L Induction Bottom Pressure Cooker  (Aluminium)",
+  "productList": [
+    {
+      "productData": "Made of: Aluminium"
+    },
+    {
+      "productData": "Pack of: 3"
+    },
+    {
+      "productData": "With Induction Bottom"
+    },
+    {
+      "productData": "Capacity: 2 L, 3 L, 5 L"
+    },
+    {
+      "productData": "Lid Type: Outer Lid"
+    }
+  ],
+  "productPrice": 1690,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf4c"
+  },
+  "productImg": "/images/Homedecor/Cookware/8.jpeg",
+  "productName": "Master Perfect 5 L Pressure Cooker  (Aluminium)",
+  "productList": [
+    {
+      "productData": "Made of: Aluminium"
+    },
+    {
+      "productData": "Pack of: 1"
+    },
+    {
+      "productData": "Capacity: 5 L"
+    },
+    {
+      "productData": "Lid Type: Outer Lid"
+    }
+  ],
+  "productPrice": 679,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf4d"
+  },
+  "productImg": "/images/Homedecor/Cookware/9.jpeg",
+  "productName": "NEXA Casserole With Lid - 3200ML ( Losange) Induction Bottom Cookware Set  (Steel, 1 - Piece)",
+  "productList": [
+    {
+      "productData": "Made of: Steel"
+    },
+    {
+      "productData": "Inclusions: Casserole"
+    },
+    {
+      "productData": "Non-stick Coating"
+    },
+    {
+      "productData": "6000 mAh Lithium-ion Polymer Battery"
+    },
+    {
+      "productData": "Capacity: 3200ml L"
+    },
+    {
+      "productData": "Dishwasher Safe, Induction Bottom, Lid Included"
+    }
+  ],
+  "productPrice": 625,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf4e"
+  },
+  "productImg": "/images/Homedecor/Cookware/10.jpeg",
+  "productName": "PRISTINE Multipurpose Induction Base 2 Tiers Steamer Stainless Steel Steamer  (2 L)",
+  "productList": [
+    {
+      "productData": "Capacity: 2 L"
+    },
+    {
+      "productData": "Made of Stainless Steel"
+    },
+    {
+      "productData": "Induction Safe"
+    }
+  ],
+  "productPrice": 814,
+  "productCategory": "cookwareproduct"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf4f"
+  },
+  "productImg": "/images/Laptop/hp15.jpeg",
+  "productName": "HP 15s Athlon Dual Core - (4 GB/1 TB HDD/Windows 10 Home) 15s-GY0001AU Thin and Light Laptop  (14 inch, Natural Silver, 1.46 kg, With MS Office) ",
+  "productList": [
+    {
+      "productData": "Stylish & Portable Thin and Light Laptop"
+    },
+    {
+      "productData": "15.6 inch HD Micro-edge, BrightView Display (220 nits Brightness, 45% NTSC Color Gamut, 101 ppi)"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    }
+  ],
+  "productPrice": 27490,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf50"
+  },
+  "productImg": "/images/Laptop/hp.jpeg",
+  "productName": "HP 14s Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14s- DY2501TU Thin and Light Laptop  (14 inch, Natural Silver, 1.46 kg, With MS Office)",
+  "productList": [
+    {
+      "productData": "Stylish & Portable Thin and Light Laptop"
+    },
+    {
+      "productData": "14 inch Full HD WLED Backlit, IPS BrightView Micro-Edge Display (250 nits Brightness, 45% NTSC Color Gamut, 157 PPI)"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    }
+  ],
+  "productPrice": 40990,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf51"
+  },
+  "productImg": "/images/Laptop/acer.jpeg",
+  "productName": "acer Aspire 7 Ryzen 5 Quad Core 3550H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650/60 Hz) A715-41G-R6S8 Gaming Laptop  (15.6 inch, Charcoal Black, 2.15 kg)",
+  "productList": [
+    {
+      "productData": "NVIDIA GeForce GTX 1650"
+    },
+    {
+      "productData": "15.6 inch Full HD LED Backlit IPS ComfyView Display (16:9 Aspect Ratio, 45% NTSC Color Gamut, 250 nits Brightness)"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    },
+    {
+      "productData": "Pre-installed Genuine Windows 10 OS"
+    }
+  ],
+  "productPrice": 49990,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf52"
+  },
+  "productImg": "/images/Laptop/hppavellian.jpeg",
+  "productName": "HP Pavilion Gaming Ryzen 5 Quad Core 3550H - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 15-ec0101AX Gaming Laptop  (15.6 inch, Black, 2.04 kg)",
+  "productList": [
+    {
+      "productData": "NVIDIA GeForce GTX 1650"
+    },
+    {
+      "productData": "15.6 inch Full HD LED Backlit Display"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    },
+    {
+      "productData": "Pre-installed Genuine Windows 10 OS"
+    }
+  ],
+  "productPrice": 49990,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf53"
+  },
+  "productImg": "/images/Laptop/msi.jpeg",
+  "productName": "MSI GF65 Thin Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce GTX 1660 Ti/144 Hz) GF65 Thin 10SDR-1283IN Gaming Laptop  (15.6 inch, Carbon Gray, 1.86 KG)",
+  "productList": [
+    {
+      "productData": "NVIDIA GeForce GTX 1660 Ti"
+    },
+    {
+      "productData": "15.6 inch Full HD LED Backlit IPS Display (144Hz Refresh Rate, 45%NTSC Color Gamut)"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    },
+    {
+      "productData": "Pre-installed Genuine Windows 10 OS"
+    }
+  ],
+  "productPrice": 74990,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf54"
+  },
+  "productImg": "/images/Laptop/asusryzen3.jpeg",
+  "productName": "ASUS Ryzen 3 Dual Core - (4 GB/256 GB SSD/Windows 10 Home) M515DA-BQ312TS Thin and Light Laptop ",
+  "productList": [
+    {
+      "productData": "Stylish & Portable Thin and Light Laptop"
+    },
+    {
+      "productData": "15.6 inch Full HD Anti-glare Display (250nits Brightness, 83% Screen-to-body Ratio, IPS-level Panel)"
+    },
+    {
+      "productData": "Finger Print Sensor for Faster System Access"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    }
+  ],
+  "productPrice": 32990,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf55"
+  },
+  "productImg": "/images/Laptop/macair.jpeg",
+  "productName": "APPLE MacBook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A  (13.3 inch, Space Grey, 1.29 kg)",
+  "productList": [
+    {
+      "productData": "Stylish & Portable Thin and Light Laptop"
+    },
+    {
+      "productData": "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    }
+  ],
+  "productPrice": 92900,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf56"
+  },
+  "productImg": "/images/Laptop/msigf6.jpeg",
+  "productName": "MSI GF63 Thin Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650 Ti with Max-Q) GF63 Thin 9SCSR -1040IN Gaming Laptop  (15.6 inch, Black, 1.86 kg)",
+  "productList": [
+    {
+      "productData": "NVIDIA GeForce GTX 1650 Ti with Max-Q"
+    },
+    {
+      "productData": "15.6 inch Full HD LED Backlit IPS Display (60 Hz Refresh Rate, 45% NTSC Color Gamut)"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    },
+    {
+      "productData": "Pre-installed Genuine Windows 10 OS"
+    }
+  ],
+  "productPrice": 56990,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf57"
+  },
+  "productImg": "/images/Laptop/dell.jpeg",
+  "productName": "DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) INSP 5406 2 in 1 2 in 1 Laptop  (14 inch, Titan Grey, 1.72 kg, With MS Office)",
+  "productList": [
+    {
+      "productData": "Carry It Along 2 in 1 Laptop"
+    },
+    {
+      "productData": "14 inch Full HD LED Backlit Touch Display (Active Pen Stylus Support)"
+    },
+    {
+      "productData": "Finger Print Sensor for Faster System Access"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    }
+  ],
+  "productPrice": 73990,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf58"
+  },
+  "productImg": "/images/Laptop/dellinspirion.jpeg",
+  "productName": "DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Inspiron 5502 Thin and Light Laptop  (15.6 inch, Silver, 1.65 kg, With MS Office)",
+  "productList": [
+    {
+      "productData": "Stylish & Portable Thin and Light Laptop"
+    },
+    {
+      "productData": "15.6 inch Full HD LED Backlit Anti-glare Display"
+    },
+    {
+      "productData": "Finger Print Sensor for Faster System Access"
+    },
+    {
+      "productData": "Light Laptop without Optical Disk Drive"
+    }
+  ],
+  "productPrice": 68667,
+  "productCategory": "laptopcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf59"
+  },
+  "productImg": "/images/microwave/1.jpeg",
+  "productName": "SAMSUNG 28 L Slim Fry Convection Microwave Oven  (CE1041DSB2, Black)",
+  "productList": [
+    {
+      "productData": "28 L : Great for family of 4"
+    },
+    {
+      "productData": "Convection : Can be used for baking along with grilling, reheating, defrosting and cooking"
+    },
+    {
+      "productData": "Touch Key Pad (Membrane) is sensitive to touch and easy to clean"
+    },
+    {
+      "productData": "Child Lock : Ensures complete safety especially for homes with small children"
+    }
+  ],
+  "productPrice": 11590,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf5a"
+  },
+  "productImg": "/images/microwave/2.jpeg",
+  "productName": "SAMSUNG 28 L Convection & Grill Microwave Oven  (MC28H5013AK, Black)",
+  "productList": [
+    {
+      "productData": "28 L : Great for family of 4"
+    },
+    {
+      "productData": "Convection : Can be used for baking along with grilling, reheating, defrosting and cooking"
+    },
+    {
+      "productData": "Touch Key Pad (Membrane) is sensitive to touch and easy to clean"
+    },
+    {
+      "productData": "Child Lock : Ensures complete safety especially for homes with small children"
+    }
+  ],
+  "productPrice": 10990,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf5b"
+  },
+  "productImg": "/images/microwave/3.jpeg",
+  "productName": "SAMSUNG 21 L Convection Microwave Oven  (CE73JD-B, Full Black)",
+  "productList": [
+    {
+      "productData": "28 L : Great for family of 4"
+    },
+    {
+      "productData": "Convection : Can be used for baking along with grilling, reheating, defrosting and cooking"
+    },
+    {
+      "productData": "Touch Key Pad (Membrane) is sensitive to touch and easy to clean"
+    },
+    {
+      "productData": "Child Lock : Ensures complete safety especially for homes with small children"
+    }
+  ],
+  "productPrice": 9490,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf5c"
+  },
+  "productImg": "/images/microwave/4.jpeg",
+  "productName": "IFB 23 L Convection Microwave Oven  (GME 523 CF1 RM, Black)",
+  "productList": [
+    {
+      "productData": "28 L : Great for family of 4"
+    },
+    {
+      "productData": "Convection : Can be used for baking along with grilling, reheating, defrosting and cooking"
+    },
+    {
+      "productData": "Touch Key Pad (Membrane) is sensitive to touch and easy to clean"
+    },
+    {
+      "productData": "Child Lock : Ensures complete safety especially for homes with small children"
+    }
+  ],
+  "productPrice": 9790,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf5d"
+  },
+  "productImg": "/images/microwave/5.jpeg",
+  "productName": "IFB 23 L Convection Microwave Oven  (23SC3, Silver)",
+  "productList": [
+    {
+      "productData": "23 L : Great for family of 4"
+    },
+    {
+      "productData": "Convection : Can be used for baking along with grilling, reheating, defrosting and cooking"
+    },
+    {
+      "productData": "Touch Key Pad (Membrane) is sensitive to touch and easy to clean"
+    },
+    {
+      "productData": "Child Lock : Ensures complete safety especially for homes with small children"
+    }
+  ],
+  "productPrice": 10690,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf5e"
+  },
+  "productImg": "/images/microwave/6.jpeg",
+  "productName": "BAJAJ 16-Litre 1603TSS Oven Toaster Grill (OTG)  (Stainless Steel Black)",
+  "productList": [
+    {
+      "productData": "Capacity: 16 L"
+    },
+    {
+      "productData": "Power: 1200 W"
+    },
+    {
+      "productData": "Warming Function"
+    },
+    {
+      "productData": "Timer"
+    }
+  ],
+  "productPrice": 3999,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf5f"
+  },
+  "productImg": "/images/microwave/7.jpeg",
+  "productName": "SAMSUNG 23 L Solo Microwave Oven  (MS23J5133AG/TL, Black)",
+  "productList": [
+    {
+      "productData": "28 L : Great for family of 4"
+    },
+    {
+      "productData": "Convection : Can be used for baking along with grilling, reheating, defrosting and cooking"
+    },
+    {
+      "productData": "Touch Key Pad (Membrane) is sensitive to touch and easy to clean"
+    },
+    {
+      "productData": "Child Lock : Ensures complete safety especially for homes with small children"
+    }
+  ],
+  "productPrice": 5800,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf60"
+  },
+  "productImg": "/images/microwave/8.jpeg",
+  "productName": "SAMSUNG 23 L Solo Microwave Oven  (MS23F301TAK, Black)",
+  "productList": [
+    {
+      "productData": "23 L : Great for family of 4"
+    },
+    {
+      "productData": "Tact (Buttons), Jog Dial : Even with hands soiled with dough, these buttons can be used"
+    },
+    {
+      "productData": "Child Lock : Ensures complete safety especially for homes with small children"
+    }
+  ],
+  "productPrice": 5500,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf61"
+  },
+  "productImg": "/images/microwave/9.jpeg",
+  "productName": "Morphy Richards 60-Litre 60 RCSS Oven Toaster Grill (OTG)  (Silver)",
+  "productList": [
+    {
+      "productData": "Capacity: 60 L"
+    },
+    {
+      "productData": "Power: 1500 W"
+    },
+    {
+      "productData": "Rotisserie"
+    },
+    {
+      "productData": "Timer"
+    }
+  ],
+  "productPrice": 14999,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf62"
+  },
+  "productImg": "/images/microwave/10.jpeg",
+  "productName": "BAJAJ 16-Litre MAJESTY 1603T Oven Toaster Grill (OTG)  (WHITE)",
+  "productList": [
+    {
+      "productData": "Capacity: 16 L"
+    },
+    {
+      "productData": "Power: 1200 W"
+    },
+    {
+      "productData": "Timer"
+    }
+  ],
+  "productPrice": 3799,
+  "productCategory": "microwavecard"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf63"
+  },
+  "productImg": "/images/mobiles/asusrog5.jpeg",
+  "productName": "ASUS ROG Phone 5 (Black, 128 GB)",
+  "productList": [
+    {
+      "productData": "8 GB RAM | 128 GB ROM"
+    },
+    {
+      "productData": "17.22 cm (6.78 inch) Full HD+ Display"
+    },
+    {
+      "productData": "64MP + 13MP + 5MP | 24MP Front Camera"
+    },
+    {
+      "productData": "6000 mAh Lithium Polymer Battery"
+    },
+    {
+      "productData": "Qualcomm Snapdragon 888 (SM8350) Processor"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productPrice": 49999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf64"
+  },
+  "productImg": "/images/mobiles/realmex7.jpeg",
+  "productName": "realme X7 5G (Space Silver, 128 GB) ",
+  "productList": [
+    {
+      "productData": "6 GB RAM | 128 GB ROM"
+    },
+    {
+      "productData": "16.33 cm (6.43 inch) Full HD+ Display"
+    },
+    {
+      "productData": "64MP + 8MP + 2MP | 16MP Front Camera"
+    },
+    {
+      "productData": "4310 mAh Battery"
+    },
+    {
+      "productData": "MediaTek Dimensity 800U Processor"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productPrice": 17999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf65"
+  },
+  "productImg": "/images/mobiles/iphone12.jpeg",
+  "productName": "APPLE iPhone 12 (Black, 128 GB)",
+  "productList": [
+    {
+      "productData": "128 GB ROM"
+    },
+    {
+      "productData": "15.49 cm (6.1 inch) Super Retina XDR Display"
+    },
+    {
+      "productData": "12MP + 12MP | 12MP Front Camera"
+    },
+    {
+      "productData": "A14 Bionic Chip with Next Generation Neural Engine Processor"
+    },
+    {
+      "productData": "QuIP68 Water Resistance"
+    },
+    {
+      "productData": "All Screen OLED Display"
+    }
+  ],
+  "productPrice": 82900,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf66"
+  },
+  "productImg": "/images/mobiles/realme3.jpeg",
+  "productName": "realme X3 (Glacier Blue, 128 GB)",
+  "productList": [
+    {
+      "productData": "8 GB RAM | 128 GB ROM"
+    },
+    {
+      "productData": "16.69 cm (6.57 inch) Full HD+ Display"
+    },
+    {
+      "productData": "64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front Camera"
+    },
+    {
+      "productData": "4200 mAh Battery"
+    },
+    {
+      "productData": "Qualcomm Snapdragon 855+ Processor"
+    },
+    {
+      "productData": "120 Hz Smooth Display"
+    }
+  ],
+  "productPrice": 25999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf67"
+  },
+  "productImg": "/images/mobiles/realmx.jpeg",
+  "productName": "realme X (Space Blue, 128 GB) ",
+  "productList": [
+    {
+      "productData": "4 GB RAM | 128 GB ROM"
+    },
+    {
+      "productData": "16.59 cm (6.53 inch) Full HD+ Display"
+    },
+    {
+      "productData": "48MP + 5MP | 16MP Front Camera"
+    },
+    {
+      "productData": "3765 mAh Battery"
+    },
+    {
+      "productData": "Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE Processor"
+    },
+    {
+      "productData": "Super AMOLED Display"
+    }
+  ],
+  "productPrice": 17999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf68"
+  },
+  "productImg": "/images/mobiles/samsunggalaxy12.jpeg",
+  "productName": "Samsung Galaxy 12 Ultra",
+  "productList": [
+    {
+      "productData": "12 GB RAM | 256 GB ROM"
+    },
+    {
+      "productData": "17.27 cm (6.8 inch) Quad HD+ Display"
+    },
+    {
+      "productData": "108MP + 12MP + 10MP + 10MP | 40MP Front Camera"
+    },
+    {
+      "productData": "5000 mAh Lithium-ion Battery"
+    },
+    {
+      "productData": "Exynos 2100 Processor"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productPrice": 105999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf69"
+  },
+  "productImg": "/images/mobiles/motorolag10.jpeg",
+  "productName": "MOTOROLA G10 Power (Breeze Blue, 64 GB) ",
+  "productList": [
+    {
+      "productData": "4 GB RAM | 64 GB ROM"
+    },
+    {
+      "productData": "16.54 cm (6.51 inch) HD+ Display"
+    },
+    {
+      "productData": "48MP + 8MP + 2MP + 2MP | 8MP Front Camera"
+    },
+    {
+      "productData": "6000 mAh Battery"
+    },
+    {
+      "productData": "Snapdragon 460 Processor"
+    },
+    {
+      "productData": "Stock Android Experience | Think Shield Security"
+    }
+  ],
+  "productPrice": 9499,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf6a"
+  },
+  "productImg": "/images/mobiles/redmi.jpeg",
+  "productName": "REDMI 9 Prime (Mint Green, 64 GB)",
+  "productList": [
+    {
+      "productData": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB"
+    },
+    {
+      "productData": "16.59 cm (6.53 inch) Full HD+ Display"
+    },
+    {
+      "productData": "13MP Rear Camera | 8MP Front Camera"
+    },
+    {
+      "productData": "5020 mAh Battery"
+    },
+    {
+      "productData": "MediaTek Helio G80 Processor"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productPrice": 9999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf6b"
+  },
+  "productImg": "/images/mobiles/iphonexr1.jpeg",
+  "productName": "Apple iPhone XR (White, 128 GB)",
+  "productList": [
+    {
+      "productData": "128 GB ROM"
+    },
+    {
+      "productData": "15.49 cm (6.1 inch) Display"
+    },
+    {
+      "productData": "12MP Rear Camera | 7MP Front Camera"
+    },
+    {
+      "productData": "A12 Bionic Chip Processor"
+    },
+    {
+      "productData": "iOS 13 Compatible"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productPrice": 42999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf6c"
+  },
+  "productImg": "/images/mobiles/note8pro.jpeg",
+  "productName": "REDMI Note 8 Pro (Shadow Black, 128 GB) ",
+  "productList": [
+    {
+      "productData": "8 GB RAM | 128 GB ROM | Expandable Upto 512 GB"
+    },
+    {
+      "productData": "16.59 cm (6.53 inch) Full HD+ Display"
+    },
+    {
+      "productData": "64MP + 8MP + 2MP + 2MP | 20MP Front Camera"
+    },
+    {
+      "productData": "4500 mAh Li-polymer Battery"
+    },
+    {
+      "productData": "MediaTek Helio G90T Processor"
+    },
+    {
+      "productData": "One Year Warranty for Handset, 6 Months for Accessories"
+    }
+  ],
+  "productPrice": 19999,
+  "productCategory": "mobilescards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf6d"
+  },
+  "productImg": "/images/PC/assmebled.jpeg",
+  "productName": "Assembled i5 2400 Core i5 (4 GB DDR3/500 GB/Windows 10 Pro/15.1 Inch Screen/ASZI55004GB)",
+  "productList": [
+    {
+      "productData": "Windows 10 Pro"
+    },
+    {
+      "productData": "Intel Core i5"
+    },
+    {
+      "productData": "HDD Capacity 500 GB"
+    },
+    {
+      "productData": "RAM 4 GB DDR3"
+    },
+    {
+      "productData": "15.1 inch Display"
+    }
+  ],
+  "productPrice": 15999,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf6e"
+  },
+  "productImg": "/images/PC/asuscorei3.jpeg",
+  "productName": "ASUS Core i3 (10th Gen) (4 GB DDR4/1 TB/Windows 10 Home/21.5 Inch Screen/V222FAK-BA041T)",
+  "productList": [
+    {
+      "productData": "Windows 10 Pro"
+    },
+    {
+      "productData": "Intel Core i3 (10th Gen)"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 4 GB DDR4"
+    },
+    {
+      "productData": "21.5 inch Display"
+    }
+  ],
+  "productPrice": 35990,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf6f"
+  },
+  "productImg": "/images/PC/asuspremium.jpeg",
+  "productName": "ASUS Pentium Quad Core (4 GB DDR3/1 TB/Windows 10 Home/21.5 Inch Screen/V221IDUK-BA175T)",
+  "productList": [
+    {
+      "productData": "Windows 10 Home"
+    },
+    {
+      "productData": "Intel Pentium Quad Core"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 4 GB DDR4"
+    },
+    {
+      "productData": "21.5 inch Display"
+    }
+  ],
+  "productPrice": 28490,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf70"
+  },
+  "productImg": "/images/PC/asusryzen3.jpeg",
+  "productName": "ASUS Ryzen 3 Dual Core (4 GB DDR4/1 TB/Windows 10 Home/23.8 Inch Screen/M241DAK-WA150T)",
+  "productList": [
+    {
+      "productData": "Windows 10 Home"
+    },
+    {
+      "productData": "AMD Ryzen 3 Dual Core"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 4 GB DDR4"
+    },
+    {
+      "productData": "23.8 inch Display"
+    }
+  ],
+  "productPrice": 33990,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf71"
+  },
+  "productImg": "/images/PC/dellin.jpeg",
+  "productName": "DELL Inspiron Core i3 (8th Gen) (4 GB DDR4/1 TB/Windows 10 Home/21.5 Inch Screen/AIO 3280) ",
+  "productList": [
+    {
+      "productData": "Windows 10 Home"
+    },
+    {
+      "productData": "Intel Core i3 (8th Gen)"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 4 GB DDR4"
+    },
+    {
+      "productData": "21.5 inch Display"
+    }
+  ],
+  "productPrice": 42790,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf72"
+  },
+  "productImg": "/images/PC/dellinspirion.jpeg",
+  "productName": "DELL Inspiron Pentium Dual Core (4 GB DDR4/1 TB/Windows 10 Home/21.5 Inch Screen/AIO 3280) ",
+  "productList": [
+    {
+      "productData": "Windows 10 Home"
+    },
+    {
+      "productData": "Intel Pentium Dual Core"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 4 GB DDR4"
+    },
+    {
+      "productData": "21.5 inch Display"
+    }
+  ],
+  "productPrice": 34890,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf73"
+  },
+  "productImg": "/images/PC/hpallinone.jpeg",
+  "productName": "HP All in One PC Core i5 (9th Gen) (8 GB DDR4/1 TB/Free DOS/21.5 Inch Screen/22-c0163il)",
+  "productList": [
+    {
+      "productData": "Windows 10 Home"
+    },
+    {
+      "productData": "Intel Core i5 (9th Gen)"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 8 GB DDR4"
+    },
+    {
+      "productData": "21.5 inch Display"
+    }
+  ],
+  "productPrice": 44990,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf74"
+  },
+  "productImg": "/images/PC/hpallinone1.jpeg",
+  "productName": "HP All-in-One 24-df0061 Core i5 (10th Gen) (8 GB DDR4/1 TB/Windows 10 Home/24 Inch Screen/24-df0061in) with MS Office ",
+  "productList": [
+    {
+      "productData": "Windows 10 Home"
+    },
+    {
+      "productData": "Intel Core i5 (10th Gen)"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 8 GB DDR4"
+    },
+    {
+      "productData": "24 inch Display"
+    }
+  ],
+  "productPrice": 69800,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf75"
+  },
+  "productImg": "/images/PC/mac.jpeg",
+  "productName": "APPLE iMac Core i5 (5th Gen) (8 GB DDR3/1 TB/Mac OS X Sierra/21.5 Inch Screen/MK482HN/A)",
+  "productList": [
+    {
+      "productData": "Mac OS X Sierra"
+    },
+    {
+      "productData": "Intel Core i5 (5th Gen)"
+    },
+    {
+      "productData": "HDD Capacity 1 TB"
+    },
+    {
+      "productData": "RAM 8 GB DDR3"
+    },
+    {
+      "productData": "21.5 inch Display"
+    }
+  ],
+  "productPrice": 91490,
+  "productCategory": "pccards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf76"
+  },
+  "productImg": "/images/Gaming/chu.jpeg",
+  "productName": "SONY chu -2208bb01i 1000 GB with Spider Man, Ratchet & Clank, Gran Turismo",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:Spider Man, Ratchet & Clank, Gran Turismo"
+    },
+    {
+      "productData": "Bluetooth Available"
+    }
+  ],
+  "productPrice": 29990,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf77"
+  },
+  "productImg": "/images/Gaming/cod.jpeg",
+  "productName": "SONY PlayStation 4 (PS4) 1 TB with Call Of Duty: Infinite Warfare, Modern Warfare(Downloadable Code) & Infamous Second Son",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:Call Of Duty: Infinite Warfare, Modern Warfare(Downloadable Code) & Infamous Second Son"
+    },
+    {
+      "productData": "Ethernet Available, Bluetooth Available"
+    }
+  ],
+  "productPrice": 33990,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf78"
+  },
+  "productImg": "/images/Gaming/fifa.jpeg",
+  "productName": "Sony PlayStation 4 (PS4) Slim 1 TB with FIFA 18  ",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:FIFA 18"
+    }
+  ],
+  "productPrice": 32299,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf79"
+  },
+  "productImg": "/images/Gaming/gta.jpeg",
+  "productName": "SONY PS4 Slim 1 TB with Grand Theft Auto V, Days Gone, God of War Fortnite ",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:Grand Theft Auto V, Days Gone, God of War Fortnite (DLC)"
+    },
+    {
+      "productData": " Bluetooth Available"
+    }
+  ],
+  "productPrice": 28990,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf7a"
+  },
+  "productImg": "/images/Gaming/lastofus.jpeg",
+  "productName": "SONY PlayStation 4 (PS4) 1 TB with The Last of Us, Driveclub and InFamous: Second Son ",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:The Last of Us, Driveclub and InFamous: Second Son"
+    },
+    {
+      "productData": " Ethernet Available, Bluetooth Available"
+    }
+  ],
+  "productPrice": 32990,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf7b"
+  },
+  "productImg": "/images/Gaming/od.jpeg",
+  "productName": "SONY PS4 Pro 1 TB with God of Wa",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:God of War"
+    },
+    {
+      "productData": " Ethernet Available, Bluetooth Available"
+    }
+  ],
+  "productPrice": 42699,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf7c"
+  },
+  "productImg": "/images/Gaming/ps4.jpeg",
+  "productName": "Sony PlayStation 4 (PS4) Slim 500 GB with Uncharted 4, Horizon Zero Dawn (Complete Edition) and Gran Turismo Sport",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:Uncharted 4, Horizon Zero Dawn (Complete Edition) and Gran Turismo Sport"
+    },
+    {
+      "productData": "New attractive black colour PS4 with similar color of controller, amazing HDR quality graphics"
+    },
+    {
+      "productData": "Bundle with 3 HIT games and PlayStation plus a 3-month membership"
+    },
+    {
+      "productData": "30 percent slimmer, 16 percent lighter than earlier PS4 model"
+    }
+  ],
+  "productPrice": 24400,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf7d"
+  },
+  "productImg": "/images/Gaming/spiderman.jpeg",
+  "productName": "SONY PlayStation 4 1 TB with Marvel Spider Man",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:Marvel Spider Man"
+    }
+  ],
+  "productPrice": 26990,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf7e"
+  },
+  "productImg": "/images/Gaming/uncharted4.jpeg",
+  "productName": "SONY Ps4 Slim 1TB With Extra Dualshock controller and Fifa 21 1000 GB with FIFA 21 ",
+  "productList": [
+    {
+      "productData": "PS4"
+    },
+    {
+      "productData": "Games Included:FIFA 21"
+    }
+  ],
+  "productPrice": 37999,
+  "productCategory": "gamingcards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf7f"
+  },
+  "productImg": "/images/TV/1.jpeg",
+  "productName": "LG All-in-One 126 cm (50 inch) Ultra HD (4K) LED Smart TV  (50UM7290PTD)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: WebOS"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 20 W"
+    },
+    {
+      "productData": "Refresh Rate: 50 Hz"
+    }
+  ],
+  "productPrice": 43999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf80"
+  },
+  "productImg": "/images/TV/2.jpeg",
+  "productName": "OnePlus U1S 164 cm (65 inch) Ultra HD (4K) LED Smart Android TV  (65UC1A00)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 30 W"
+    },
+    {
+      "productData": "Refresh Rate: 60 Hz"
+    }
+  ],
+  "productPrice": 62999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf81"
+  },
+  "productImg": "/images/TV/3.jpeg",
+  "productName": "SAMSUNG Crystal 4K Pro 163 cm (65 inch) Ultra HD (4K) LED Smart TV with Voice Search  (UA65AUE70AKLXL)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Tizen"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 20 W"
+    },
+    {
+      "productData": "Refresh Rate: 50 Hz"
+    }
+  ],
+  "productPrice": 89999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf82"
+  },
+  "productImg": "/images/TV/4.jpeg",
+  "productName": "OnePlus U1S 164 cm (65 inch) Ultra HD (4K) LED Smart Android TV  (65UC1A00)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 20 W"
+    },
+    {
+      "productData": "Refresh Rate: 50 Hz"
+    }
+  ],
+  "productPrice": 62999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf83"
+  },
+  "productImg": "/images/TV/5.jpeg",
+  "productName": "Mi 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 20 W"
+    },
+    {
+      "productData": "Refresh Rate: 50 Hz"
+    }
+  ],
+  "productPrice": 14999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf84"
+  },
+  "productImg": "/images/TV/6.jpeg",
+  "productName": "realme 80 cm (32 inch) HD Ready LED Smart Android TV  (TV 32)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 24 W"
+    },
+    {
+      "productData": "Refresh Rate: 60 Hz"
+    }
+  ],
+  "productPrice": 13999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf85"
+  },
+  "productImg": "/images/TV/7.jpeg",
+  "productName": "LG 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition  (32LM565BPTA)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 10 W"
+    },
+    {
+      "productData": "Refresh Rate: 50 Hz"
+    }
+  ],
+  "productPrice": 16999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf86"
+  },
+  "productImg": "/images/TV/8.jpeg",
+  "productName": "Mi 4X 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 20 W"
+    },
+    {
+      "productData": "Refresh Rate: 60 Hz"
+    }
+  ],
+  "productPrice": 27999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf87"
+  },
+  "productImg": "/images/TV/9.jpeg",
+  "productName": "realme 108 cm (43 inch) Full HD LED Smart Android TV  (TV 43)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 24 W"
+    },
+    {
+      "productData": "Refresh Rate: 60 Hz"
+    }
+  ],
+  "productPrice": 23999,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf88"
+  },
+  "productImg": "/images/TV/10.jpeg",
+  "productName": "Vu Premium 108 cm (43 inch) Full HD LED Smart Android TV  (43US)",
+  "productList": [
+    {
+      "productData": "Supported Apps: Netflix|Prime Video|Disney+Hotstar|Youtube"
+    },
+    {
+      "productData": "Operating System: Android (Google Assistant & Chromecast in-built)"
+    },
+    {
+      "productData": "Resolution: Ultra HD (4K) 3840 x 2160 Pixels"
+    },
+    {
+      "productData": "Sound Output: 20 W"
+    },
+    {
+      "productData": "Refresh Rate: 60 Hz"
+    }
+  ],
+  "productPrice": 23499,
+  "productCategory": "televisioncards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf89"
+  },
+  "productImg": "/images/Washingmachine/1.jpeg",
+  "productName": "SAMSUNG 6.5 kg Monsoon drying feature Fully Automatic Top Load Silver  (WA65A4002VS/TL)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "680 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "6.5 kg"
+    }
+  ],
+  "productPrice": 14190,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf8a"
+  },
+  "productImg": "/images/Washingmachine/2.jpeg",
+  "productName": "Whirlpool 7 kg 5 Star,Turbo Scrub Technology Semi Automatic Top Load Grey  (SUPERB ATOM 70S GREY DAZZLE (5YR))",
+  "productList": [
+    {
+      "productData": "Semi Automatic Top Load"
+    },
+    {
+      "productData": "1450 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "7 kg"
+    },
+    {
+      "productData": "5 Star Rating"
+    }
+  ],
+  "productPrice": 9990,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf8b"
+  },
+  "productImg": "/images/Washingmachine/3.jpeg",
+  "productName": "SAMSUNG 6 kg 5 star Inverter Fully Automatic Front Load with In-built Heater White  (WW60R20GLMA/TL)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "1000 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "6.5 kg"
+    }
+  ],
+  "productPrice": 21990,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf8c"
+  },
+  "productImg": "/images/Washingmachine/4.jpeg",
+  "productName": "Whirlpool 6 kg Fully Automatic Top Load Grey  (WM ROYAL 6.0 GENX GREY 5YMW)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "740 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "6 kg"
+    }
+  ],
+  "productPrice": 13240,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf8d"
+  },
+  "productImg": "/images/Washingmachine/5.jpeg",
+  "productName": "IFB 6 kg 5 Star Fully Automatic Front Load with In-built Heater Silver  (Diva Aqua SX)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "680 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "6 kg"
+    }
+  ],
+  "productPrice": 23490,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf8e"
+  },
+  "productImg": "/images/Washingmachine/6.jpeg",
+  "productName": "LG 7 kg Fully Automatic Front Load with In-built Heater Silver  (FHM1207ADL)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "680 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "7 kg"
+    }
+  ],
+  "productPrice": 29990,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf8f"
+  },
+  "productImg": "/images/Washingmachine/7.jpeg",
+  "productName": "BOSCH 7 kg INVERTER TOUCH CONTROL Fully Automatic Front Load with In-built Heater White  (WAJ2006EIN)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "1000 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "7 kg"
+    }
+  ],
+  "productPrice": 28990,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf90"
+  },
+  "productImg": "/images/Washingmachine/8.jpeg",
+  "productName": "SAMSUNG 6 kg Fully Automatic Front Load Silver  (WW60R20GLSS/TL)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "1000 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "6 kg"
+    }
+  ],
+  "productPrice": 23490,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf91"
+  },
+  "productImg": "/images/Washingmachine/9.jpeg",
+  "productName": "IFB 7 kg Fully Automatic Front Load with In-built Heater Black, White  (Neo Diva BX 7 kg)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "1000 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "7 kg"
+    }
+  ],
+  "productPrice": 29990,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf92"
+  },
+  "productImg": "/images/Washingmachine/10.jpeg",
+  "productName": "SAMSUNG 6.5 kg Monsoon drying feature Fully Automatic Top Load Silver  (WA65A4002VS/TL)",
+  "productList": [
+    {
+      "productData": "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality"
+    },
+    {
+      "productData": "680 rpm : Higher the spin speed, lower the drying time"
+    },
+    {
+      "productData": "6.5 kg"
+    }
+  ],
+  "productPrice": 14190,
+  "productCategory": "washingmachinecards"
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf93"
+  },
+  "productImg": "/images/AC/1.jpeg",
+  "productName": "Midea 1.5 Ton 3 Star Split AC - White, Grey  (18K 3 STAR SANTIS PRO CLS R32 SPLIT AC, Copper Condenser)",
+  "productCategory": "accards",
+  "productPrice": "26990",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf94"
+  },
+  "productImg": "/images/AC/1.jpeg",
+  "productName": "Midea 1.5 Ton 3 Star Split AC - White, Grey  (18K 3 STAR SANTIS PRO CLS R32 SPLIT AC, Copper Condenser)",
+  "productCategory": "accards",
+  "productPrice": "26990",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf95"
+  },
+  "productImg": "/images/AC/1.jpeg",
+  "productName": "Midea 1.5 Ton 3 Star Split AC - White, Grey  (18K 3 STAR SANTIS PRO CLS R32 SPLIT AC, Copper Condenser)",
+  "productCategory": "accards",
+  "productPrice": "26990",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf96"
+  },
+  "productImg": "/images/AC/1.jpeg",
+  "productName": "Midea 1.5 Ton 3 Star Split AC - White, Grey  (18K 3 STAR SANTIS PRO CLS R32 SPLIT AC, Copper Condenser)",
+  "productCategory": "accards",
+  "productPrice": "26990",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652525010e3be1f719ceaf97"
+  },
+  "productImg": "/images/AC/1.jpeg",
+  "productName": "Midea 1.5 Ton 3 Star Split AC - White, Grey  (18K 3 STAR SANTIS PRO CLS R32 SPLIT AC, Copper Condenser)",
+  "productCategory": "accards",
+  "productPrice": "26990",
+  "productList": [
+    {
+      "productData": "1.5 Ton : suitable for room size up to 150 sq ft"
+    },
+    {
+      "productData": "3 Star BEE Rating 2020 : For energy savings upto 15% (compared to Non-Inverter 1 Star)"
+    },
+    {
+      "productData": "Auto Restart: No need to manually reset the settings post power-cut"
+    },
+    {
+      "productData": "Copper : Energy efficient, best in class cooling with easy maintenance."
+    },
+    {
+      "productData": "Sleep Mode: Auto-adjusts the temperature to ensure comfort during your sleep"
+    }
+  ]
+}]

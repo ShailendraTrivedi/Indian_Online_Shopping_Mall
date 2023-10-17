@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.loginBG{
+    background: url(D:\GitHub_Projects\Indian_Online_Shopping_Mall\frontend\public\IMG\LOGIN.jpg);
+}

@@ -1,0 +1,11 @@
+.inputfield_css {
+  @apply border-2 p-2 focus:outline-none focus:border-violet-500 transition-colors w-full  focus:ring-violet-500 rounded;
+}
+
+.labelfeild_css {
+  @apply absolute left-3 top-2 select-none text-gray-400 transition-all duration-150;
+}
+
+.inputfield_css:valid ~ label {
+  @apply text-xs border-l-2 border-r-2 bg-white text-violet-500 border-violet-500 px-2 -top-2;
+}
